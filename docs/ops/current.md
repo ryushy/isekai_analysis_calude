@@ -21,7 +21,7 @@
 
 ## 次のアクション（優先順）
 
-0. **第1話＝案3で確定**（駅地下・二重生活／FAB=D3ヘッドホンの声の正体／引き=F3削れ予兆）。プロット＝[../plot/ep1_plot.md](../plot/ep1_plot.md)。**力の背骨＝編集層**（[../settings/ability_progression.md](../settings/ability_progression.md)：《晴れ間》=L0→重力→ブラックホール→01/量子、徐々に開放）。次は**本文化 or 案3の冒頭ストーリーボード再試作**。重力/量子は完全隠蔽（1話はL0と仕込みのみ）。
+0. **第1話＝案3で確定**（駅地下・二重生活／FAB=D3ヘッドホンの声の正体／引き=F3削れ予兆）。プロット＝[../plot/ep1_plot.md](../plot/ep1_plot.md)。**力の背骨＝編集層**（[../settings/ability_progression.md](../settings/ability_progression.md)：《サンブレイク》=L0→重力→ブラックホール→01/量子、徐々に開放）。次は**本文化 or 案3の冒頭ストーリーボード再試作**。重力/量子は完全隠蔽（1話はL0と仕込みのみ）。
 1. **第1話プロット構成**（`B1-00`〜）を組む：確定した喪失の核を起点に、序章〜第1章の章立て・伏線の出し入れを [../series/disclosure_ledger.md](../series/disclosure_ledger.md) と照合しながら作る。→ `docs/manuscript/book1/` を作成し episode_id 規約で運用開始。
 2. または **試作のレビュー**：移植したレビュースキルで現プロトタイプを多角検証（`reader-personas` 読者目線／`editor-kawahara` 川原礫＝アクセルワールド構造／`editor-tsukikage` テンポ）。
 3. または **実動画化**：既存ストーリーボードを `seedance` で動画化（get_cost 確認の上）。
