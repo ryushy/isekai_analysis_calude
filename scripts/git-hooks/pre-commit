@@ -1,0 +1,43 @@
+#!/bin/sh
+# CVE-0 pre-commit（事前フック）
+#  1) main/master への直接コミットを禁止（ブランチ運用の強制）
+#  2) 25MB 超の巨大ファイルをブロック
+#  3) Markdown 相対リンクの破損をブロック
+# 例外的に main へ直接コミットしたい時のみ: ALLOW_COMMIT_ON_MAIN=1 git commit ...
+
+branch="$(git rev-parse --abbrev-ref HEAD 2>/dev/null)"
+case "$branch" in
+  main|master)
+    if [ "${ALLOW_COMMIT_ON_MAIN:-0}" != "1" ]; then
+      echo "✗ pre-commit: '$branch' への直接コミットは禁止です。作業ブランチを切ってください:" >&2
+      echo "    git switch -c feature/<topic>" >&2
+      echo "  （どうしても直接コミットする場合のみ ALLOW_COMMIT_ON_MAIN=1 git commit ...）" >&2
+      exit 1
+    fi
+    ;;
+esac
+
+# 巨大ファイル検出（追加・変更分のみ）
+max=26214400  # 25MB
+big="$(git diff --cached --name-only --diff-filter=AM | while IFS= read -r f; do
+  [ -f "$f" ] || continue
+  s=$(wc -c < "$f" 2>/dev/null || echo 0)
+  [ "$s" -gt "$max" ] && echo "  $f ($s bytes)"
+done)"
+if [ -n "$big" ]; then
+  echo "✗ pre-commit: 25MB を超えるファイルはコミットしないでください:" >&2
+  echo "$big" >&2
+  echo "  動画等は .gitignore 対象にするか別管理にしてください。" >&2
+  exit 1
+fi
+
+# Markdown リンク健全性
+if command -v python >/dev/null 2>&1 && [ -f scripts/check_links.py ]; then
+  if ! python scripts/check_links.py --quiet; then
+    echo "✗ pre-commit: Markdown 相対リンクに破損があります。" >&2
+    echo "    python scripts/check_links.py  で詳細を確認してください。" >&2
+    exit 1
+  fi
+fi
+
+exit 0
