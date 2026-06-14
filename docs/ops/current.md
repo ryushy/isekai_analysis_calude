@@ -17,7 +17,9 @@
 - ✅ ストーリーボード3枚（確定容姿v2）：[../../media/storyboard/](../../media/storyboard/)（剣・バトル）＋ストーリーボードリポジトリ（訓練）
 - ✅ 制作スキル：`storyboard`／`seedance`（codex MCP・Higgsfield 確認済）
 - ✅ 管理基盤：ops三層・series台帳（canon/timeline/disclosure/episode_id）・レビュースキル3（reader-personas/editor-kawahara/editor-tsukikage）
-- ✅ **第2話 本文 v0.2**：[manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)「見られていた」（篠宮澪 初登場・見逃しの三本足場・イレギュラー共闘＝点vs面・コスチューム変身・約5,700字＝NG0/WARN0）。
+- ✅ **第2話 本文 v0.3**：[manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)「見られていた」（篠宮澪 初登場・見逃しの三本足場・イレギュラー共闘＝点vs面・コスチューム変身・**役者レビュー反映＝庇う動機補強＋ラッキースケベの緩**・約6,000字＝NG0/WARN0）。
+- ✅ **キャラクターシート**：[character_sheet_mio.md](../settings/character_sheet_mio.md)（澪＝顔/体型リファレンス写真2枚・ペルソナ森脇リリカ参照・ラッキースケベ §3.5）／[character_sheet_nagi.md](../settings/character_sheet_nagi.md)（ナギ）。
+- ✅ **レビュースキル追加**：[actor-review](../../.claude/skills/actor-review/SKILL.md)（演出家・霧島怜＝役者目線で行動の妥当性＝唐突さ/キャラブレ検出）。事後レビュー＝[review/02-01_actor.md](../review/02-01_actor.md)。
 - ✅ Git運用：ブランチ運用＋フック（pre-commit/commit-msg/post-commit＋Claude SessionStart/Stop）＋`git-flow`スキル。**第2話プロット・ヒロイン設定・学校確定まで main へマージ済**。**本セッション分（ヒロイン確定v0.2・ep2_plot v0.3・第2話本文v0.2・コスチューム機構C-027・文体ルールv0.2）は未コミット**。
 
 ## 次のアクション（優先順）— ★ここから再開する
@@ -44,4 +46,5 @@
 |---|---|
 | 2026-06-14 | 初版。Phase0 完了間際の状態＋管理基盤導入を記録 |
 | 2026-06-14 | 第2話プロット作成→**剣の少年を弓道狙撃ヒロイン（監視役・見逃す葛藤型）へ置換**（[heroine_core.md](../settings/heroine_core.md) 新設）。**学校確定**（聖光/雙葉モチーフ・モチーフ化・C-025/C-026）。すべて main マージ済。**次の一手＝ヒロインのキャラ設計→第2話本文化** |
+| 2026-06-14 | **キャラクターシート作成**（[mio](../settings/character_sheet_mio.md)＝顔/体型リファレンス写真2枚・ペルソナ森脇リリカ参照・**ラッキースケベ的接触§3.5**／[nagi](../settings/character_sheet_nagi.md)）。澪の容姿に**素の柔らかさ（凛↔柔の二面）**を追加。**役者目線レビュースキル [actor-review](../../.claude/skills/actor-review/SKILL.md)（演出家・霧島怜）を新設**＝行動の妥当性/唐突さ/キャラブレ検出。**第2話に適用**（[review/02-01_actor.md](../review/02-01_actor.md)）→検出「ナギが澪を庇う動機が薄い」を本文v0.3で補強＋ラッキースケベの緩を追加（NG0/WARN0）。**未コミット** |
 | 2026-06-14 | **ヒロイン確定**（篠宮澪／弓＝外付け支給品／聖稜学院・山手聖二葉女学院・容姿/口調/出自）。著者FB「葛藤が唐突」→**見逃しの三本足場**（手順/弓道の規律/**第3勢力＝ダンジョンのイレギュラー共闘**＝弓と相性悪い"点の無い混沌"・点vs面）でヒロイン§1.5・ep2_plot v0.3 を再設計。**第2話本文 v0.2 執筆**（NG0/WARN0）。著者FB反映＝**漢字レベルLN相当に是正（writing_style §1.1）**・《アンブレラ》＝**半透明のシールド**統一・**コスチューム変身機構**（digital_tattoo §6.5・C-027＝深層で能力外在化・澪=和風射手装束 image.png黒髪版）。**未コミット**＝次は main マージ＋第2話レビュー |
