@@ -21,7 +21,7 @@
 
 ## 1. 容姿・体型（顔・体型リファレンス）
 
-> **顔・体型の正典リファレンス＝著者提示の写真2枚**：[../../media/reference/スクリーンショット 2026-06-14 201207.png](../../media/reference/) と [../../media/reference/スクリーンショット 2026-06-14 201259.png](../../media/reference/)（モデル＝森脇リリカ／※実在人物。顔立ち・体型・雰囲気の参照に用い、経歴等の事実は断定しない）。
+> **顔・体型の正典リファレンス＝著者提示の写真2枚**：[../../media/common/reference/スクリーンショット 2026-06-14 201207.png](../../media/common/reference/) と [../../media/common/reference/スクリーンショット 2026-06-14 201259.png](../../media/common/reference/)（モデル＝森脇リリカ／※実在人物。顔立ち・体型・雰囲気の参照に用い、経歴等の事実は断定しない）。
 
 | 項目 | 内容 |
 |---|---|
@@ -38,7 +38,7 @@
 | シーン | 服装 |
 |---|---|
 | 表層（学校・日常） | **山手聖二葉女学院の制服**＝紺のジャンパースカート＋ボレロ（雙葉系ミッション校の品）。肩に**弓巻**を提げる。私服は写真2系（ふんわりした白ニット等・柔らかい少女らしさ）。 |
-| 深層（ダンジョン） | **緋色基調の和風の射手装束**＝コスチューム（能力の外在化・[digital_tattoo §6.5](digital_tattoo.md)）。黒髪ポニーテール・たすき/片肌・光の弓。**リファレンス＝[image.png](../../media/reference/image.png)（和風射手の構図・黒髪版）**。制服（洋）↔装束（和）の落差＝主題の可視化。 |
+| 深層（ダンジョン） | **緋色基調の和風の射手装束**＝コスチューム（能力の外在化・[digital_tattoo §6.5](digital_tattoo.md)）。黒髪ポニーテール・たすき/片肌・光の弓。**リファレンス＝[image.png](../../media/common/reference/image.png)（和風射手の構図・黒髪版）**。制服（洋）↔装束（和）の落差＝主題の可視化。 |
 
 ---
 
@@ -143,9 +143,9 @@ Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace.
 
 **v1（2026-06-14・codex 生成）**：表層＝紺制服のターンアラウンド（正面/斜め/横/背面）＋表情差分／深層＝緋色の和風射手装束＋光の弓＋表情差分／下段に配色見本。
 
-![澪 設定画 v1（制服ターンアラウンド＋緋色射手装束＋表情差分＋配色）](../../media/storyboard/character-mio/outputs/ref_sheet_v1.png)
+![澪 設定画 v1（制服ターンアラウンド＋緋色射手装束＋表情差分＋配色）](../../media/common/characters/character-mio/outputs/ref_sheet_v1.png)
 
-- 生成物：[../../media/storyboard/character-mio/outputs/ref_sheet_v1.png](../../media/storyboard/character-mio/outputs/ref_sheet_v1.png)
+- 生成物：[../../media/common/characters/character-mio/outputs/ref_sheet_v1.png](../../media/common/characters/character-mio/outputs/ref_sheet_v1.png)
 
 ---
 

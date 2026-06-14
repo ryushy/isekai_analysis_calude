@@ -2,8 +2,8 @@
 
 第1話バトル「静止した雨」を15秒9カットのショートに起こすケース。**出力はすべて claude プロジェクト内**に配置。フォーマットはストーリーボードリポジトリ（`chapter_short_pipeline_v3`）の規約を踏襲。
 
-- 原稿（本文）: [docs/prototype_ep1_battle.md](../../../docs/manuscript/prototypes/prototype_ep1_battle.md)
-- 設定参照: [docs/settings/battle_system.md](../../../docs/settings/battle_system.md)（§1 加速・二層／§4 deploy・crash／§9 短尺仕様）、[docs/settings/anomaly_mark.md](../../../docs/settings/anomaly_mark.md)（あざ）、[docs/settings/fab_persona.md](../../../docs/settings/fab_persona.md)、[docs/writing_style_notes.md](../../../docs/guides/writing_style_notes.md)
+- 原稿（本文）: [docs/prototype_ep1_battle.md](../../../../../docs/manuscript/prototypes/prototype_ep1_battle.md)
+- 設定参照: [docs/settings/battle_system.md](../../../../../docs/settings/battle_system.md)（§1 加速・二層／§4 deploy・crash／§9 短尺仕様）、[docs/settings/anomaly_mark.md](../../../../../docs/settings/anomaly_mark.md)（あざ）、[docs/settings/fab_persona.md](../../../../../docs/settings/fab_persona.md)、[docs/writing_style_notes.md](../../../../../docs/guides/writing_style_notes.md)
 
 ## このケースの一点
 

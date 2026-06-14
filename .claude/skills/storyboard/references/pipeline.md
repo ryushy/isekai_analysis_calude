@@ -5,7 +5,7 @@
 ## 案件フォルダ構成
 
 ```text
-media/storyboard/<case-slug>/
+media/book{N}/ep{M}/storyboard/<case-slug>/
   README.md                  ← 案件概要・進行表・v記録
   01_highlight.md            ← STEP1（原文引用つき9カット）  ※Claude
   03_storyboard_prompt.md    ← STEP3（codex 用 3x3 プロンプト）※Claude
@@ -71,9 +71,9 @@ Avoid readable text, captions, subtitles, numbers other than the storyboard fram
 次のプロンプトファイルの「## Storyboard」コードブロック内の英語プロンプトを一切変更せずに使い、3x3グリッド9コマの画像を生成して保存してください。
 主人公の顔・髪・ヘッドホンは参考画像に寄せてください（同一人物。少しハーフ＝目元にわずかな東アジアの柔らかさ）。
 
-- プロンプト: media/storyboard/<case>/03_storyboard_prompt.md
-- 参考画像: media/参考画像/
-- 保存先: media/storyboard/<case>/outputs/storyboards/storyboard_vN.png
+- プロンプト: media/book{N}/ep{M}/storyboard/<case>/03_storyboard_prompt.md
+- 参考画像: media/common/characters/参考画像/
+- 保存先: media/book{N}/ep{M}/storyboard/<case>/outputs/storyboards/storyboard_vN.png
 
 プロンプト文言の追加・削除はしないこと。画像生成手段が使えない場合は課金せず、その旨と必要物を日本語で報告すること。生成できたら保存パスと所感（カット一致／縦9:16／読める文字の有無）を日本語で報告すること。
 ```

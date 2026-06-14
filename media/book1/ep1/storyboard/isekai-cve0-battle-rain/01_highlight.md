@@ -1,6 +1,6 @@
 # バトル「静止した雨」15秒ハイライト v1
 
-原稿: `../../prototype_ep1_battle.md`（[docs/prototype_ep1_battle.md](../../../docs/manuscript/prototypes/prototype_ep1_battle.md)）
+原稿: `../../prototype_ep1_battle.md`（[docs/prototype_ep1_battle.md](../../../../../docs/manuscript/prototypes/prototype_ep1_battle.md)）
 フォーマット参照: ストーリーボードリポジトリ `chapter_short_pipeline_v3`（本文準拠・縦9:16・読める文字なし）
 
 ## フォーカス（この章の「続きを読みたくなる一点」）

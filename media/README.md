@@ -6,23 +6,37 @@
 
 ## 1. 構造
 
+**共通（複数話で使い回す）＝ `common/`／話固有＝ `book{N}/ep{M}/`** に分ける。各話固有フォルダは `backgrounds/`・`reference/`・`storyboard/` を任意に持つ。
+
 ```text
 media/
 ├── README.md
-├── storyboard/                  … 案件（シーン）ごとのストーリーボード
-│   └── <case-slug>/
-│       ├── README.md            … 案件概要・進行表
-│       ├── 01_highlight.md      … 15秒9カット（原文引用つき）   ← Claude が作成
-│       ├── 03_storyboard_prompt.md … 3x3グリッド生成プロンプト   ← Claude が作成
-│       ├── 04_seedance_prompt.md … 動画化プロンプト（任意）       ← Claude が作成
-│       ├── outputs/storyboards/ … 生成ボード画像（codex）
-│       ├── outputs/seedance/    … 生成動画（codex/Higgsfield）
-│       ├── references/          … 案件固有の参照画像
-│       └── reviews/             … レビュー用フレーム
-└── 参考画像/                    … 主人公など共通キャラの参照画像
+├── common/                      … 共通（複数話で横断利用）
+│   ├── backgrounds/             … 恒久ロケの深層背景（例：honmoku-phantom-station-hideout＝秘密基地）
+│   │   └── <location-slug>/     … outputs/・references/・scene_input.md
+│   ├── characters/              … 共通キャラ参照（character-mio/・character-nagi/・参考画像/）
+│   │   └── <char-slug>/outputs/ … キャラ設定シート画像（codex）
+│   └── reference/               … 共通の参考画像（キャラ顔・雰囲気）＋ README
+└── book{N}/                     … 巻
+    └── ep{M}/                   … 話固有
+        ├── backgrounds/<location-slug>/  … その話のダンジョン／舞台背景（scene_input.md＋outputs/）
+        ├── reference/                     … その話の実在地参照（例：コスモワールド・みなとみらい・山手学院）
+        └── storyboard/<case-slug>/        … その話のストーリーボード案件
+            ├── README.md            … 案件概要・進行表
+            ├── 01_highlight.md      … 15秒9カット（原文引用つき）   ← Claude が作成
+            ├── 03_storyboard_prompt.md … 3x3グリッド生成プロンプト   ← Claude が作成
+            ├── 04_seedance_prompt.md … 動画化プロンプト（任意）       ← Claude が作成
+            ├── outputs/storyboards/ … 生成ボード画像（codex）
+            ├── outputs/seedance/    … 生成動画（codex/Higgsfield）
+            ├── references/          … 案件固有の参照画像
+            └── reviews/             … レビュー用フレーム
 ```
 
-既存案件：`storyboard/isekai-cve0-battle-rain/`（静止した雨）／`storyboard/isekai-cve0-sword/`（剣のひと）。
+既存：
+- 共通背景＝`common/backgrounds/honmoku-phantom-station-hideout/`（幻の地下鉄駅＝秘密基地）。
+- 第1話（`book1/ep1/`）＝背景 `backgrounds/cosmoworld-carnival-dungeon/`（炎と森のカーニバル）、ストーリーボード `storyboard/isekai-cve0-battle-rain/`（静止した雨）／`storyboard/isekai-cve0-sword/`（剣のひと）、参照 `reference/`（コスモワールド・みなとみらい）。
+- 第2話（`book2`…ではなく `book1/ep2/`）＝参照 `reference/`（山手学院）。
+
 ※ 特訓「ひと晩寝かせる」は別リポジトリ `C:\project\home\entertaiment\ストーリーボード\cases\isekai-cve0-training\` にある（先行作成のため）。
 
 ---
