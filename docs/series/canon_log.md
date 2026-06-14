@@ -15,6 +15,7 @@
 | C-004 | 強さ＝literacy・相性・履歴の密度（**数値インフレを排す**）。成長＝特訓→睡眠→定着 | [../settings/battle_system.md §2-3/§3.5](../settings/battle_system.md) |
 | C-005 | 能力装備＝デジタルタトゥー（武器/防具/道具の代替）。**武器の形＝力の象徴**（金属でない） | [../settings/digital_tattoo.md](../settings/digital_tattoo.md) |
 | C-006 | **ダンジョン＝現実の特定地点に重なる深層インスタンス**。実在地（GoogleMap）を歪めて生成、入口で潜行（身体は静止）、毎回別生成（master の癖＝同一性＋乱数/時間歪み）。物語の舞台＝表層(自宅/学校/訓練)＋深層(ダンジョン) | [../settings/locations.md](../settings/locations.md)／[../settings/dungeon_design.md §1.5](../settings/dungeon_design.md) |
+| C-007 | **力の正体＝現実の"記述"の編集。強さ＝編集できる層の深さ（質・数値でない）**。L0表層の事実(《晴れ間》)→L1物体→L2場/力(重力・時間)→L3法則(質量集中=小ブラックホール=心意級)→L4基層(01/量子)=究極。徐々に開放（literacy/あざ段階/徒弟/飛躍）。おれつえー終局は大弧III・upstream接続 | [../settings/ability_progression.md](../settings/ability_progression.md) |
 
 ## 2. 時代・事件
 

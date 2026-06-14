@@ -48,6 +48,7 @@ docs/
 | ファイル | 内容 |
 |---|---|
 | [settings/battle_system.md](settings/battle_system.md) | 戦闘・特訓（加速/二層/deploy/crash/心意級/成長＝積み上げ§3.5/飛躍§3.5-4） |
+| [settings/ability_progression.md](settings/ability_progression.md) | **力の背骨**（記述の編集＝編集層の深化。しょぼい技→重力→ブラックホール→01/量子。徐々に開放） |
 | [settings/digital_tattoo.md](settings/digital_tattoo.md) | 能力装備＝デジタルタトゥー（レア度/相性4分類/彫師ギルド/形見の継承） |
 | [settings/anomaly_mark.md](settings/anomaly_mark.md) | あざ（自然・複製不可）／タトゥー（人工）の現象学 |
 | [settings/locations.md](settings/locations.md) | **ロケーション**（自宅/学校/訓練/ダンジョン。表層×深層・移動） |
