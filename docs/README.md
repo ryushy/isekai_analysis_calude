@@ -50,7 +50,8 @@ docs/
 | [settings/battle_system.md](settings/battle_system.md) | 戦闘・特訓（加速/二層/deploy/crash/心意級/成長＝積み上げ§3.5/飛躍§3.5-4） |
 | [settings/digital_tattoo.md](settings/digital_tattoo.md) | 能力装備＝デジタルタトゥー（レア度/相性4分類/彫師ギルド/形見の継承） |
 | [settings/anomaly_mark.md](settings/anomaly_mark.md) | あざ（自然・複製不可）／タトゥー（人工）の現象学 |
-| [settings/dungeon_design.md](settings/dungeon_design.md) | ダンジョン設計パターン（故人repo/固有現象/報酬） |
+| [settings/locations.md](settings/locations.md) | **ロケーション**（自宅/学校/訓練/ダンジョン。表層×深層・移動） |
+| [settings/dungeon_design.md](settings/dungeon_design.md) | ダンジョン設計（故人repo/固有現象/**実在地基盤・潜行・インスタンス生成**） |
 | [settings/protagonist_core.md](settings/protagonist_core.md) | **主人公の核**（喪失と願い・容姿確定・10巻＝受容） |
 | [settings/fab_persona.md](settings/fab_persona.md) | 相棒AI FAB の声・動機・嘘・削れ段階表 |
 | [settings/factions.md](settings/factions.md) | マスターオリジン4学派＝組織と代表キャラ |
