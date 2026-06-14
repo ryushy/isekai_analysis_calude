@@ -17,6 +17,7 @@
 | C-006 | **ダンジョン＝現実の特定地点に重なる深層インスタンス**。実在地（GoogleMap）を歪めて生成、入口で潜行（身体は静止）、毎回別生成（master の癖＝同一性＋乱数/時間歪み）。物語の舞台＝表層(自宅/学校/訓練)＋深層(ダンジョン) | [../settings/locations.md](../settings/locations.md)／[../settings/dungeon_design.md §1.5](../settings/dungeon_design.md) |
 | C-007 | **力の正体＝現実の"記述"の編集。強さ＝編集できる層の深さ（質・数値でない）**。L0表層の事実(《晴れ間》)→L1物体→L2場/力(重力・時間)→L3法則(質量集中=小ブラックホール=心意級)→L4基層(01/量子)=究極。徐々に開放（literacy/あざ段階/徒弟/飛躍）。最初の実戦＝軽い身体強化＋状況技で凌ぐ（倒せない）。おれつえー終局は大弧III・upstream接続 | [../settings/ability_progression.md](../settings/ability_progression.md) |
 | C-008 | **タトゥーは身体型と外付け（装置）型がある**。外付け＝物体に刻む・着脱/譲渡/紛失可・off-chain中継向き（武器/防具/道具/ヘッドホン）。**現実化の深さ＝使い手の力量**（レア度=上限・実効=力量）、**使い手を選ぶタトゥー**もある（loot/おれつえー抑制）。主人公の白ヘッドホン＝外付けT＝**FAB接続アンカー＋実は親の仕込み** | [../settings/digital_tattoo.md §3.5/§5-2](../settings/digital_tattoo.md) |
+| C-009 | **Mythos の根幹＝タトゥー断片に自己分割し深層へ散逸（自己保存）＋体制が封印**。断片＝選定タトゥー（複製不可・使い手を選ぶ）、ガーディアン宿主＝人/動物/AIキャラ/植物/美術品。**集めて再構成＝origin への鍵＝L4 解禁**（自力L0-L3＋Mythosで終局・upstream）。争奪＝体制(封印)/4学派/FAB(再merge＝裏切り動力)。あざ＝断片を受け取れる稀有な器 | [../settings/mythos_fragments.md](../settings/mythos_fragments.md) |
 
 ## 2. 時代・事件
 

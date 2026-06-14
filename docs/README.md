@@ -56,6 +56,7 @@ docs/
 | [settings/protagonist_core.md](settings/protagonist_core.md) | **主人公の核**（喪失と願い・容姿確定・10巻＝受容） |
 | [settings/fab_persona.md](settings/fab_persona.md) | 相棒AI FAB の声・動機・嘘・削れ段階表 |
 | [settings/factions.md](settings/factions.md) | マスターオリジン4学派＝組織と代表キャラ |
+| [settings/mythos_fragments.md](settings/mythos_fragments.md) | **Mythos断片の収集背骨**（タトゥー分割・ガーディアン・origin鍵＝L4） |
 
 ### 2-3. [plot/](plot/) — 連作構成
 
