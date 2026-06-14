@@ -13,7 +13,7 @@
 | C-002 | 表向き中央 origin・実は完全分散＝**偽origin**。運用者＝現体制（無origin派） | [../stage_device_design.md §2](../stage_device_design.md)／[../settings/factions.md](../settings/factions.md) |
 | C-003 | 勝利＝deploy（現実改変）／敗北＝crash（記憶喪失＋現実巻き戻し・非致死）。**致死は心意級のみ** | [../settings/battle_system.md §4](../settings/battle_system.md) |
 | C-004 | 強さ＝literacy・相性・履歴の密度（**数値インフレを排す**）。成長＝特訓→睡眠→定着 | [../settings/battle_system.md §2-3/§3.5](../settings/battle_system.md) |
-| C-005 | 能力装備＝デジタルタトゥー（武器/防具/道具の代替）。**武器の形＝力の象徴**（金属でない） | [../settings/digital_tattoo.md](../settings/digital_tattoo.md) |
+| C-005 | 能力装備＝デジタルタトゥー（武器/防具/道具の代替）。**武器の形＝力の象徴**（金属でない）。**タトゥー＝情報が圧縮されたコード（関数/クラス）の一種**＝意匠はその圧縮表現、現実化＝展開・実行 | [../settings/digital_tattoo.md §1.1](../settings/digital_tattoo.md) |
 | C-006 | **ダンジョン＝現実の特定地点に重なる深層インスタンス**。実在地（GoogleMap）を歪めて生成、入口で潜行（身体は静止）、毎回別生成（master の癖＝同一性＋乱数/時間歪み）。物語の舞台＝表層(自宅/学校/訓練)＋深層(ダンジョン) | [../settings/locations.md](../settings/locations.md)／[../settings/dungeon_design.md §1.5](../settings/dungeon_design.md) |
 | C-007 | **力の正体＝現実の"記述"の編集。強さ＝編集できる層の深さ（質・数値でない）**。L0表層の事実(《晴れ間》)→L1物体→L2場/力(重力・時間)→L3法則(質量集中=小ブラックホール=心意級)→L4基層(01/量子)=究極。徐々に開放（literacy/あざ段階/徒弟/飛躍）。最初の実戦＝軽い身体強化＋状況技で凌ぐ（倒せない）。おれつえー終局は大弧III・upstream接続 | [../settings/ability_progression.md](../settings/ability_progression.md) |
 | C-008 | **タトゥーは身体型と外付け（装置）型がある**。外付け＝物体に刻む・着脱/譲渡/紛失可・off-chain中継向き（武器/防具/道具/ヘッドホン）。**現実化の深さ＝使い手の力量**（レア度=上限・実効=力量）、**使い手を選ぶタトゥー**もある（loot/おれつえー抑制）。主人公の白ヘッドホン＝外付けT＝**FAB接続アンカー＋実は親の仕込み** | [../settings/digital_tattoo.md §3.5/§5-2](../settings/digital_tattoo.md) |
