@@ -2,7 +2,7 @@
 
 > 種別：背景・ステージ（第1ダンジョン）／用途：establishing 16:9 × 3
 > 案件slug：`cosmoworld-carnival-dungeon`
-> 正典：[01-01_modori_jirushi.md](../../../docs/manuscript/book1/01-01_modori_jirushi.md)（観覧車・記録の雨・森化・歪む非常口・道化の楽団）／[dungeon_design.md §2](../../../docs/settings/dungeon_design.md)（ありえない一点＝閉園なのに観覧車が回り灯が点り雨が降る）。
+> 正典：[01-01_modori_jirushi.md](../../../../../docs/manuscript/book1/01-01_modori_jirushi.md)（観覧車・記録の雨・森化・歪む非常口・道化の楽団）／[dungeon_design.md §2](../../../../../docs/settings/dungeon_design.md)（ありえない一点＝閉園なのに観覧車が回り灯が点り雨が降る）。
 
 ## 同一性（3場面で保持）
 
@@ -37,4 +37,5 @@
 
 | バージョン | 内容 |
 |---|---|
-| v1（予定） | 場面1（敷居・夕）／場面2（カーニバル全開・夜）／場面3（戦闘後・静謐）を 16:9 で初回生成 |
+| v1 | 場面1（敷居・夕）／場面2（カーニバル全開・夜）／場面3（戦闘後・静謐）を 16:9 で初回生成。`outputs/cosmoworld_0{1,2,3}_*_v1.png` |
+| v2（場面1のみ） | 非常口を大観覧車の足元・裏手へ寄せて再生成。`outputs/cosmoworld_01_threshold_dusk_v2.png`（採用）。著者OK |

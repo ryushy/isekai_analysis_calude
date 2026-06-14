@@ -2,8 +2,8 @@
 
 第1話続き「剣のひと」を15秒9カットのショートに起こすケース。**出力はすべて claude プロジェクト内**に配置。フォーマットはストーリーボードリポジトリ（`chapter_short_pipeline_v3`）の規約を踏襲。
 
-- 原稿（本文）: [docs/prototype_ep1_sword.md](../../../docs/manuscript/prototypes/prototype_ep1_sword.md)
-- 設定参照: [docs/settings/battle_system.md](../../../docs/settings/battle_system.md)（§0 形と勝敗＝根本原則）、[docs/settings/digital_tattoo.md](../../../docs/settings/digital_tattoo.md)（剣型タトゥー・登録/野良）、[docs/settings/fab_persona.md](../../../docs/settings/fab_persona.md)、[docs/writing_style_notes.md](../../../docs/guides/writing_style_notes.md)
+- 原稿（本文）: [docs/prototype_ep1_sword.md](../../../../../docs/manuscript/prototypes/prototype_ep1_sword.md)
+- 設定参照: [docs/settings/battle_system.md](../../../../../docs/settings/battle_system.md)（§0 形と勝敗＝根本原則）、[docs/settings/digital_tattoo.md](../../../../../docs/settings/digital_tattoo.md)（剣型タトゥー・登録/野良）、[docs/settings/fab_persona.md](../../../../../docs/settings/fab_persona.md)、[docs/writing_style_notes.md](../../../../../docs/guides/writing_style_notes.md)
 
 ## このケースの一点
 

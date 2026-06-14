@@ -19,12 +19,12 @@ CVE-0 の**深層ステージ（実在地ベースのダンジョンインスタ
 ## 前提
 
 - codex MCP 接続済み（`claude mcp list` に `codex ... ✔ Connected`）。未接続なら [seedance/references/setup.md](../seedance/references/setup.md) を案内。
-- 入力は2系統：**(A) 実在地・参考画像**（locations の実在地／`media/reference/`／著者提示の参考画像）を歪めた深層版／**(B) 創造上のテキスト**（幻の地下鉄駅・未踏の場所など表層に無い場所）。
+- 入力は2系統：**(A) 実在地・参考画像**（locations の実在地／`media/common/reference/`／著者提示の参考画像）を歪めた深層版／**(B) 創造上のテキスト**（幻の地下鉄駅・未踏の場所など表層に無い場所）。
 - 表現規則は storyboard と共通：縦横は用途で選ぶ（establishing＝16:9 シネマ／seedance 連携＝縦9:16）。**読める文字・数字・HUD を出さない／git・専門語は世界観上も非表示／FAB＝淡い光のみ**。
 
 ## ワークフロー
 
-1. **案件フォルダ**を `media/backgrounds/<location-slug>/` に作る（`outputs/`・`references/`・`scene_input.md`）。slug は英数字とハイフン。
+1. **案件フォルダ**を `media/{common|book{N}/ep{M}}/backgrounds/<location-slug>/` に作る（`outputs/`・`references/`・`scene_input.md`）。slug は英数字とハイフン。
 2. **STEP1 シーン同一性** `scene_input.md`：場所を決める。①**実在地ベース**（どの実在地か＝locations 準拠）②**固有現象**（誰の repo のにじみ＝そのステージの癖・同一性）③**ありえない一点**。入力が参考画像なら Read で見て構図・要素を文章化（画像は入力。生成物と区別）。
 3. **STEP2 環境バリアントをロール** `scene_input.md` 内に記録：[references/variants.md](references/variants.md) の各軸（時間帯／天候／トーン／地形変容／ステージ特性／アートスタイル）を**ランダムに振る**（`bash` で `shuf`／`$RANDOM`）か、ユーザー指定（例「夜」「荒廃」「森と化す」「水中」）を採用。同じ場所で複数バリアントを出すと「毎回違う姿」を可視化できる。
 4. **GATE 表現規則**：読める文字/数字/HUD なし／git・専門語を画面と説明に出さない／FAB＝光のみ／実在の固有名・ロゴを描かない／**同一性（実在地＋固有現象）が保たれているか**／ありえない一点が入っているか。

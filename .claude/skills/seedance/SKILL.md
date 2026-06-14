@@ -21,7 +21,7 @@ description: Use this when CVE-0 storyboard images are already approved and the 
 3. **STEP6 codex で生成**：codex MCP を呼び、`seedance-short-video` スキル（Higgsfield MCP）で——
    - `media_upload`（presigned URL）で参照をアップ → `media_confirm`。
    - `generate_video` を **`get_cost:true` で見積り**してから本生成（テスト＝fast/720p/16:9/4-8s、最終＝std/1080p/9:16/15s）。
-   - 出力 mp4 を `media/storyboard/<case>/outputs/seedance/<descriptive>_vN.mp4` に保存、`job_display` をポーリング。
+   - 出力 mp4 を `media/book{N}/ep{M}/storyboard/<case>/outputs/seedance/<descriptive>_vN.mp4` に保存、`job_display` をポーリング。
    - 依頼文の雛形は [references/seedance-prompt.md](references/seedance-prompt.md) 末尾。
 4. **GATE B 動画レビュー** `06_video_review.md`：codex に `ffprobe`／`ffmpeg` でコンタクトシートを `reviews/<run-id>/` に出させ、縦9:16・尺・**読める文字や枠が無い**・スライドショー化していない・キャラ容姿・終端到達を確認。不合格なら 04 に追記して再生成。
 

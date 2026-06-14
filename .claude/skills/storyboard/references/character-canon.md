@@ -1,6 +1,6 @@
 # キャラクター正典（プロンプト用ブロック）
 
-> 正本：[docs/settings/protagonist_core.md §0.1](../../../../docs/settings/protagonist_core.md)。実画像：`media/参考画像/`。
+> 正本：[docs/settings/protagonist_core.md §0.1](../../../../docs/settings/protagonist_core.md)。実画像：`media/common/characters/参考画像/`。
 > プロンプトの `Character:` 欄にはこの英語ブロックを貼る。
 
 ## 主人公ナギ（英語・コピペ用）

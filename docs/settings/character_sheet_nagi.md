@@ -21,7 +21,7 @@
 
 ## 1. 容姿・体型
 
-> 容姿リファレンス＝[../../media/storyboard/参考画像/](../../media/storyboard/参考画像)（William Franklyn-Miller 系・[protagonist_core §0.1](protagonist_core.md)）。
+> 容姿リファレンス＝[../../media/common/characters/参考画像/](../../media/common/characters/参考画像)（William Franklyn-Miller 系・[protagonist_core §0.1](protagonist_core.md)）。
 
 | 項目 | 内容 |
 |---|---|
@@ -136,9 +136,9 @@ Nagi, a 16-year-old half-Japanese half-Western boy. Light ash-blond / dirty-blon
 
 **v1（2026-06-14・codex 生成）**：表層＝カジュアル＋白金ヘッドホンのターンアラウンド（正面/斜め/横/背面）／深層＝ほぼ素＋雨motif装束の萌芽／表情差分（物静か・決意・驚き・ヘッドホンに青い線が灯る瞬間）。
 
-![ナギ 設定画 v1（カジュアル＋ヘッドホンのターンアラウンド＋雨motif萌芽＋表情差分）](../../media/storyboard/character-nagi/outputs/ref_sheet_v1.png)
+![ナギ 設定画 v1（カジュアル＋ヘッドホンのターンアラウンド＋雨motif萌芽＋表情差分）](../../media/common/characters/character-nagi/outputs/ref_sheet_v1.png)
 
-- 生成物：[../../media/storyboard/character-nagi/outputs/ref_sheet_v1.png](../../media/storyboard/character-nagi/outputs/ref_sheet_v1.png)
+- 生成物：[../../media/common/characters/character-nagi/outputs/ref_sheet_v1.png](../../media/common/characters/character-nagi/outputs/ref_sheet_v1.png)
 
 ---
 
