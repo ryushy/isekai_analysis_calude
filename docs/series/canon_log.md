@@ -34,6 +34,7 @@
 | C-021 | **喪失＝海外側の親を移住途上で完全喪失**（親が心意級の禁忌で消失）。あざ＝親の最後の書き込み＝究極の形見 | [../settings/protagonist_core.md](../settings/protagonist_core.md) |
 | C-022 | 相棒＝FAB。動機＝読了欲、主人公＝手段。**7巻で裏切り露見** | [../settings/fab_persona.md](../settings/fab_persona.md) |
 | C-023 | 4学派＝原契約派/真主権者派/無origin派/上位世界派。**黒幕＝議長セン（無origin派）**だが真のラスボス＝「中心という誘惑」 | [../settings/factions.md](../settings/factions.md) |
+| C-024 | 舞台＝横浜（自宅＝**本牧**・駅無し／学校＝**山手**／第1ダンジョン＝**みなとみらい駅**）。**本牧の足元の深層に「幻の地下鉄駅」**（現実に無い駅）＝訓練拠点・隠れ家。ナギは**深層の異常に惹かれて寄り道する**性質（歩く exploit の表れ＝発見エンジン） | [../settings/locations.md](../settings/locations.md) |
 
 ## 4. 連作・結末
 
