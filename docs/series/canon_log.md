@@ -14,6 +14,7 @@
 | C-003 | 勝利＝deploy（現実改変）／敗北＝crash（記憶喪失＋現実巻き戻し・非致死）。**致死は心意級のみ** | [../settings/battle_system.md §4](../settings/battle_system.md) |
 | C-004 | 強さ＝literacy・相性・履歴の密度（**数値インフレを排す**）。成長＝特訓→睡眠→定着 | [../settings/battle_system.md §2-3/§3.5](../settings/battle_system.md) |
 | C-005 | 能力装備＝デジタルタトゥー（武器/防具/道具の代替）。**武器の形＝力の象徴**（金属でない） | [../settings/digital_tattoo.md](../settings/digital_tattoo.md) |
+| C-006 | **ダンジョン＝現実の特定地点に重なる深層インスタンス**。実在地（GoogleMap）を歪めて生成、入口で潜行（身体は静止）、毎回別生成（master の癖＝同一性＋乱数/時間歪み）。物語の舞台＝表層(自宅/学校/訓練)＋深層(ダンジョン) | [../settings/locations.md](../settings/locations.md)／[../settings/dungeon_design.md §1.5](../settings/dungeon_design.md) |
 
 ## 2. 時代・事件
 
