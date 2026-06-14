@@ -13,7 +13,7 @@
 
 - ✅ 設定規格書：[battle_system](../settings/battle_system.md)／[digital_tattoo](../settings/digital_tattoo.md)／[anomaly_mark](../settings/anomaly_mark.md)／[dungeon_design](../settings/dungeon_design.md)／[fab_persona](../settings/fab_persona.md)／[factions](../settings/factions.md)／[protagonist_core](../settings/protagonist_core.md)
 - ✅ 第1話試作3本：[prototypes/](../manuscript/prototypes/)（静止した雨／剣のひと／ひと晩寝かせる）
-- ✅ **第1話 本文 v0.5**：[manuscript/book1/01-01_modori_jirushi.md](../manuscript/book1/01-01_modori_jirushi.md)「戻り標」（横浜＝学校:山手／**ダンジョン:コスモワールドの非常口＝終わらない「炎と森のカーニバル」**＝SEKAI NO OWARI着想。**第1ダンジョンを駅→遊園地へ移設・固有現象＝記録の雨は維持・敵＝獣→ずぶ濡れの道化（戦闘メカ不変）**・空白除き約6,000字）。レビュー＝[review/01-01_*](../review/)。**1話の目安字数5,500〜6,500・密度の四要素**を [guides/writing_style_notes §4.5](../guides/writing_style_notes.md)・[roadmap §3](../project_roadmap.md) に制度化
+- ✅ **第1話 本文 v0.6**：[manuscript/book1/01-01_modori_jirushi.md](../manuscript/book1/01-01_modori_jirushi.md)「戻り標」（横浜＝学校:山手／**ダンジョン:コスモワールドの非常口**＝SEKAI NO OWARI〈炎と森のカーニバル〉着想。**第1ダンジョンを駅→遊園地へ移設・固有現象＝記録の雨は維持**・空白除き約6,000字）。**敵＝道化の楽団を「謎集団」に格上げ**＝native＝獣／Ep1はバグ介入で道化集団が上書き侵入（FABの一言＋違和感で開示安全に伏線化＝[canon_log C-027](../series/canon_log.md)・[disclosure §2](../series/disclosure_ledger.md)）。**4レビュー（霧島/速水/縞田/九条/夏目）がL109密度過多＋道化の伏線弱に収束→園内3カット化＋遠くのオルガン先植えで解消**。レビュー＝[review/01-01_*](../review/)
 - ✅ ストーリーボード3枚（確定容姿v2）：[../../media/storyboard/](../../media/storyboard/)（剣・バトル）＋ストーリーボードリポジトリ（訓練）
 - ✅ 制作スキル：`storyboard`／`seedance`（codex MCP・Higgsfield 確認済）
 - ✅ 管理基盤：ops三層・series台帳（canon/timeline/disclosure/episode_id）・レビュースキル3（reader-personas/editor-kawahara/editor-tsukikage）
