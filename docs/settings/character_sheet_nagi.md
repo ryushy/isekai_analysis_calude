@@ -134,7 +134,11 @@ Nagi, a 16-year-old half-Japanese half-Western boy. Light ash-blond / dirty-blon
 
 > 下記は §7.1–7.4 を台本に codex で生成した設定画。プレビュー確認用に埋め込む（**生成物**）。直す場合はプロンプト修正→ v+1 再生成。
 
-（生成後にここへリンクを埋め込む）
+**v1（2026-06-14・codex 生成）**：表層＝カジュアル＋白金ヘッドホンのターンアラウンド（正面/斜め/横/背面）／深層＝ほぼ素＋雨motif装束の萌芽／表情差分（物静か・決意・驚き・ヘッドホンに青い線が灯る瞬間）。
+
+![ナギ 設定画 v1（カジュアル＋ヘッドホンのターンアラウンド＋雨motif萌芽＋表情差分）](../../media/storyboard/character-nagi/outputs/ref_sheet_v1.png)
+
+- 生成物：[../../media/storyboard/character-nagi/outputs/ref_sheet_v1.png](../../media/storyboard/character-nagi/outputs/ref_sheet_v1.png)
 
 ---
 
@@ -143,3 +147,4 @@ Nagi, a 16-year-old half-Japanese half-Western boy. Light ash-blond / dirty-blon
 | 日付 | 内容 |
 |---|---|
 | 2026-06-14 v0.1 | protagonist_core を正本に、制作用の即参照シートを新規作成（容姿/体型・署名ヘッドホン・深層コスチューム（現状素）・性格/能力/口調/関係）。ヒロインシート [character_sheet_mio.md](character_sheet_mio.md) と対。 |
+| 2026-06-14 v0.2 | `character-sheet` スキルで **§7 ビジュアルリファレンス仕様**（7.1 ターンアラウンド／7.2 小物／7.3 カラー指定／7.4 英語キャラ正典ブロック）を追加。§7.5 に codex 生成の設定画 v1（カジュアル＋ヘッドホンTA＋雨motif萌芽＋表情差分）を埋め込み（プレビュー確認用） |
