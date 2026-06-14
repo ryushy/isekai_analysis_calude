@@ -39,10 +39,11 @@
 
 1. **章アウトライン**（PT）：[series/disclosure_ledger.md](series/disclosure_ledger.md) で開示可否を確認しながら章の引き・伏線配置を決める。
 2. **本文執筆**（CC）：[guides/writing_style_notes.md](guides/writing_style_notes.md) 準拠。git 非表示・ライト口語・失敗の描写。
-3. **台帳更新**：確定事実→[series/canon_log.md](series/canon_log.md)、開示実績→disclosure_ledger。
-4. **レビュー**（REV）：`reader-personas`→`editor-kawahara`/`editor-tsukikage`。指摘を改稿に反映。
-5. **メディア**（MED・任意）：`storyboard`→`seedance`。
-6. **ops 更新**：current.md を更新、worklog に追記。
+3. **機械検査**：`python scripts/check_manuscript.py <原稿>` で AI 執筆の癖（git語露出・地の文太字・難語・早出し語 等）を NG ゼロにする（[guides/ai_writing_pitfalls.md](guides/ai_writing_pitfalls.md)）。
+4. **台帳更新**：確定事実→[series/canon_log.md](series/canon_log.md)、開示実績→disclosure_ledger。
+5. **レビュー**（REV）：機械検査の後に `reader-personas`→`editor-kawahara`/`editor-tsukikage`。指摘を改稿に反映。
+6. **メディア**（MED・任意）：`storyboard`→`seedance`。
+7. **ops 更新**：current.md を更新、worklog に追記。
 
 ---
 

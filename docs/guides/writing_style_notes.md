@@ -1,7 +1,7 @@
 # 文体・用語ノート（v0.1）
 
 > 本文（プロース）・台詞・在野の呼称に適用する文体方針。設定規格書（作者側）とは別レイヤ。
-> 関連：試作 [prototype_ep1_battle.md](../manuscript/prototypes/prototype_ep1_battle.md)。
+> 関連：試作 [prototype_ep1_battle.md](../manuscript/prototypes/prototype_ep1_battle.md)／**AI執筆の癖チェック**＝[ai_writing_pitfalls.md](ai_writing_pitfalls.md)（機械検査 `scripts/check_manuscript.py`）。
 
 ---
 
