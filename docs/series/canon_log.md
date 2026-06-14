@@ -39,6 +39,7 @@
 | C-025 | ヒロイン＝**篠宮 澪（しのみや みお・16）**＝山手の**ミッション女子校・弓道部**の少女（作中校名＝**山手聖二葉女学院**／モチーフ＝横浜雙葉）。**登録された監視者**（体制側の善人）だが**ナギを見逃す葛藤型**。能力＝**弓型タトゥー＝外付け型（支給品）＝遠隔で一点を撃ち抜く（ピンポイント編集・戻り標を射抜く）**＝第1話「帰還の脆さ」の人格化。容姿＝黒髪・切れ長・和の端正（ナギの鏡像）／口調＝「わたし」・静かな丁寧語。**「洋の器に和の芯」（ミッション校＋弓道）＝ハーフ主人公の鏡像**。改変=禁忌を信じる立場＝10巻受容と将来衝突。**見逃しは唐突にせず〈①手順＝確かめてから報告②弓道の規律＝見てから放つ③第3勢力＝ダンジョンのイレギュラー共闘での目撃〉で裏打ち**（heroine §1.5）。剣の少年案を置換（剣は後巻ライバル候補に温存） | [../settings/heroine_core.md](../settings/heroine_core.md) |
 | C-026 | 学校＝**山手の丘（旧外国人居留地）のカトリック・ミッション校**。主人公校＝**聖稜学院**（聖光学院モチーフ・男子・山手駅最寄り）、ヒロイン校＝**山手聖二葉女学院**（横浜雙葉モチーフ・女子）＝同じ"洋の器"。**いずれも作中校名はモチーフ化（仮名）＝著者方針**。両校は隣接でなく遭遇は動線・監視で起こす | [../settings/locations.md §3](../settings/locations.md) |
 | C-028 | **謎集団＝「道化の楽団」**（骸骨化粧・赤い衣装・手回しオルガン／署名＝「炎と森のカーニバル」＝森と火の粉の意匠。SEKAI NO OWARI のMVモチーフ）。**深層の異常（バグ）に乗じて、実在地ダンジョンの本来の出現（native）を上書きして侵入する正体不明の集団**＝乱入（invasion・[dungeon_design §1.5-5](../settings/dungeon_design.md)）の特殊版。**第1話で初遭遇**（本来の native＝ずぶ濡れの獣を上書き）。**正体・目的・誰の差し金かは後巻回収**。**B1 では「別個の存在の気配」のみ**（Mythos と同等の伏せレベル＝FABの「これ、ここの子じゃない」止まり。git/バグ語は不出） | [../series/disclosure_ledger.md](../series/disclosure_ledger.md)・[../plot/ep1_plot.md](../plot/ep1_plot.md) |
+| C-029 | **本牧の幻の地下鉄駅＝ナギの拠点（自分だけのインスタンス）**。第2話で発見（嵐の目＝冷たい廃駅）→**第3話で再アクセスし"当たりの一本"を引き当て、タグで固定（恒久ピン留め）＝流動しない私的インスタンスに**（[dungeon_design §1.5-5](../settings/dungeon_design.md)）。以後、停車車両とホームを居室化した**温かい隠れ家**（ベッド・ソファ・キッチン・ランタン・植栽／監視外＝デッドゾーン＝あざを探知されず訓練できる）。**固有現象＝「終わらない終着駅／淀む終電」**＝電車は永遠に発車せず時間が静かに淀む＝**誰かを待ち続けて発てなかった人の記憶**（master の repo のにじみ・素性はB1では気配のみ＝ナギの喪失の鏡）。native＝待ち続ける乗客の影。**未成/廃ゆえ不安定＝イレギュラーの温床**（第2話の暴走）。背景アセット確定＝[honmoku_station_hideout_night_v1.png](../../media/common/backgrounds/honmoku-phantom-station-hideout/outputs/honmoku_station_hideout_night_v1.png) | [../settings/locations.md §4.5](../settings/locations.md)・[../media/common/backgrounds/honmoku-phantom-station-hideout/scene_input.md](../../media/common/backgrounds/honmoku-phantom-station-hideout/scene_input.md)・[../plot/ep3_plot.md](../plot/ep3_plot.md) |
 
 ## 4. 連作・結末
 
@@ -54,3 +55,4 @@
 | 日付 | 内容 |
 |---|---|
 | 2026-06-14 初版 | これまでに確定した世界・時代・人物・結末の核を C-001〜C-031 として記録。以後、確定ごとに追記（撤回も新行で記録） |
+| 2026-06-14 追記 | **C-029 を追記**：本牧の幻の地下鉄駅＝ナギの拠点（タグ固定の自分だけのインスタンス・固有現象＝終わらない終着駅／淀む終電＝待ち続けて発てなかった人の記憶・冷たい廃駅→温かい隠れ家化）。背景アセット[honmoku_station_hideout_night_v1.png](../../media/common/backgrounds/honmoku-phantom-station-hideout/outputs/honmoku_station_hideout_night_v1.png) 確定を受け、第3話「終わらない終着駅」（拠点獲得＋説明会）の新設に伴い確定事実化 |
