@@ -3,7 +3,7 @@
 > 主人公の**制作用・即参照シート**（容姿/体型・服装・性格・口調・能力・関係・声/演技の参照）。
 > 設計の根拠・喪失/願いの核は [protagonist_core.md](protagonist_core.md)（正本）。本シートはビジュアル・演技・短尺制作のための要約。
 > 関連：ヒロイン＝[character_sheet_mio.md](character_sheet_mio.md)／タトゥー＝[digital_tattoo.md](digital_tattoo.md)／あざ＝[anomaly_mark.md](anomaly_mark.md)／FAB＝[fab_persona.md](fab_persona.md)。
-> ステータス：**v0.1**（2026-06-14）。
+> ステータス：**v0.2**（2026-06-14 §7 ビジュアルリファレンス仕様＋設定画リンクを追加）。
 
 ---
 
@@ -84,6 +84,57 @@
 | FAB | 相棒AI（ヘッドホン越しの声）。やさしいが温度がない。削れの誘惑／7巻裏切り。 |
 | 澪 | 監視してくる弓道の少女。点vs面の対照。見逃される→じわじわ接近（ラッキースケベの緩＋信念衝突の重）。 |
 | 悠（ゆう） | 同級生。第1話で深層に巻き込まれ記憶を失う（何も覚えていない）。 |
+
+---
+
+## 7. ビジュアルリファレンス仕様（動画制作用・設定画）
+
+> **狙い**：このシートだけで `storyboard`／`seedance`（codex 生成）が**一貫したナギの画**を出せるよう、多角度・小物・色を言葉で定義する。表現規則＝FAB は出さない／武器・能力は**光の象徴**（青い光）・読める文字/数字/HUD なし・git 用語非表示。正本＝[protagonist_core §0.1](protagonist_core.md)・正典ブロック＝[character-canon](../../.claude/skills/storyboard/references/character-canon.md) と整合。
+
+### 7.1 多角度（ターンアラウンド）
+
+| アングル | 要点 |
+|---|---|
+| 正面 | 長い流し前髪が額（あざ）にかかる。淡い瞳・中性的な顔。長身・細身。 |
+| 斜め45度 | アッシュの無造作レイヤーの毛流れ。首にヘッドホン。 |
+| 真横（プロフィール） | 高い背・細い首・ヘッドホンのオンイヤー形状。 |
+| 背面 | レイヤーの後ろ髪・ヘッドホンのバンド。 |
+| 表情差分 | ①物静か（憂い）②とっさに動く（決意）③驚き（「機械じゃ、ないのか」）④あざが熱を持つ瞬間（淡い発光）。 |
+
+- **二層を描き分け**：表層＝カジュアル＋ヘッドホン／深層＝**現状ほぼ素のまま＋ヘッドホン**（弱い＝伸びしろ。強化時のみ雨motifの装束が淡く萌芽）。澪の華やかな射手装束との対比＝「積み上げの差」。
+
+### 7.2 小物・署名アイテム
+
+| アイテム | 見た目 | 意味・機構 | 登場 |
+|---|---|---|---|
+| ヘッドホン | **白×ゴールドのオンイヤー**（古い品） | FAB 接続アンカー（外付けタトゥー）。危機/加速時に**青い線が淡く灯る**（普段は消灯）。実は失った親の仕込み（中盤開示） | 常時 |
+| あざ | 前髪の下（額）の淡い二重写しの薄い線 | 究極の形見（自然物・複製不可）。熱を持つことがある。前髪で隠せる | 随時（隠匿運用） |
+| デジタルタトゥー | 腕などの青い線のモチーフ | 自作の小さな術の起動時に具現化（《アンブレラ》＝半透明シールド） | 戦闘 |
+
+### 7.3 カラー指定（目安）
+
+| 部位 | 色名 | 参考コード | 備考 |
+|---|---|---|---|
+| 髪 | アッシュ〜ダーティブロンド | `#B9A88C` | 無造作レイヤー。寒色寄りのトーン |
+| 瞳 | 青〜青緑 | `#6FA8B5` | 大きく淡い。少し憂い |
+| 肌 | 明るい肌 | `#F2E0D0` | 目元にわずかな東アジアの柔らかさ |
+| 表層衣装 | ダーク系T＋デニム | `#2B2B30` ／ `#3A4A63` | カジュアル・日常の温度 |
+| ヘッドホン | 白＋ゴールド | `#F4F4F2` ／ `#C8A24B` | 署名アイテム |
+| 能力光／タトゥー | 青い光 | `#5AA9E6` | 力の象徴（金属でない）。あざは控えめ発光 |
+
+### 7.4 プロンプト用キャラ正典ブロック（英語・コピペ用）
+
+> 正典は [character-canon.md](../../.claude/skills/storyboard/references/character-canon.md)。`Character:` 欄にそのまま貼る。
+
+```text
+Nagi, a 16-year-old half-Japanese half-Western boy. Light ash-blond / dirty-blond layered tousled hair with long side-swept bangs falling over the forehead, shorter sides; large striking light eyes (blue to blue-green); fair skin; refined, slightly androgynous features that read as MIXED heritage — mostly Western with a subtle East-Asian softness around the eyes (clearly hapa, hard to place); tall, slim build; quiet, slightly melancholic. White-and-gold on-ear headphones resting around his neck (a faint blue line glows on them only in danger/acceleration, otherwise off); light casual modern clothes (dark tee, denim). A faint double-exposure birthmark under the bangs (subtle glow). No FAB figure, no readable text, no numbers, no HUD.
+```
+
+### 7.5 リファレンス画像（codex 生成）
+
+> 下記は §7.1–7.4 を台本に codex で生成した設定画。プレビュー確認用に埋め込む（**生成物**）。直す場合はプロンプト修正→ v+1 再生成。
+
+（生成後にここへリンクを埋め込む）
 
 ---
 

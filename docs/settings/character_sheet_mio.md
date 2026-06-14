@@ -3,7 +3,7 @@
 > ヒロインの**制作用・即参照シート**（容姿/体型・服装・性格・口調・能力・関係・声/演技の参照）。
 > 設計の根拠・物語機能は [heroine_core.md](heroine_core.md)（正本）。本シートはビジュアル・キャスティング・演技・短尺制作のための要約。
 > 関連：主人公＝[character_sheet_nagi.md](character_sheet_nagi.md)／タトゥー＝[digital_tattoo.md](digital_tattoo.md)（弓・コスチューム §6.5）／第2話＝[../manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)。
-> ステータス：**v0.1**（2026-06-14 著者リファレンス反映）。
+> ステータス：**v0.2**（2026-06-14 §7 ビジュアルリファレンス仕様＋設定画リンクを追加）。
 
 ---
 
@@ -92,6 +92,56 @@
 | ナギ | 報告すべき監視対象→見逃す→じわじわ接近。点vs面の対照。ラッキースケベで距離が縮む緩、信念衝突（改変=禁忌）が重厚のシリアス。 |
 | 体制（"上"） | 末端の監視者。弓は支給品＝取り上げられうる（将来の火種）。 |
 | 剣の少年（温存） | 後巻の近接ライバル候補。 |
+
+---
+
+## 7. ビジュアルリファレンス仕様（動画制作用・設定画）
+
+> **狙い**：このシートだけで `storyboard`／`seedance`（codex 生成）が**一貫した澪の画**を出せるよう、多角度・小物・色を言葉で定義する。表現規則＝武器は**光の象徴**（金属でない）・読める文字/数字/HUD なし・git 用語非表示。著者写真は載せず、読み取った特徴を文章化（§1・§3 と整合）。
+
+### 7.1 多角度（ターンアラウンド）
+
+| アングル | 要点 |
+|---|---|
+| 正面 | 黒髪ハイポニーテール／背筋が通り姿勢が良い（華奢＋芯）。目を離さない強い視線。 |
+| 斜め45度 | ポニーの毛流れと弓巻のラインが見える。和の端正な横顔の入り。 |
+| 真横（プロフィール） | 弓を引く所作の基本。顎を引いた残心の構え。 |
+| 背面 | ポニーの結び・たすき掛け・装束の帯（深層時）が分かる。 |
+| 表情差分 | ①凛（無表情・狙う）②素の柔らかい笑顔（あどけない）③照れ崩れ（敬語がほどける動揺）④集中（射の瞬間）。 |
+
+- **二層を必ず描き分け**：表層＝制服（洋の器）／深層＝緋色の和風射手装束（和の芯）。同一人物として髪・顔・体型を一致させる。
+
+### 7.2 小物・署名アイテム
+
+| アイテム | 見た目 | 意味・機構 | 登場 |
+|---|---|---|---|
+| 弓巻（ゆまき） | 肩に提げる細長い布袋 | 弓道部のエースの署名小物 | 表層（学校） |
+| 光の弓 | 金属でない**光の弦の弓**（淡い金〜白光の具現） | 外付けタトゥー＝監視装置の末端（支給品）。遠隔ピンポイント編集 | 深層（戦闘） |
+| たすき／片肌 | 緋色装束の射手結び | 射の所作・和の芯の可視化 | 深層 |
+| 制服のボレロ＋ジャンパースカート | 紺基調・ミッション校の品 | 表層（洋の器） | 学校・日常 |
+
+### 7.3 カラー指定（目安）
+
+| 部位 | 色名 | 参考コード | 備考 |
+|---|---|---|---|
+| 髪 | 艶のある黒（漆黒） | `#1A1A1E` | **canon＝黒**（著者写真の明色から変更）。ハイライトは寒色寄り |
+| 瞳 | 落ち着いた濃茶〜黒 | `#3B2A24` | 大きく落ち着いた目。視線が強い |
+| 肌 | 白い肌 | `#F5E6DC` | — |
+| 表層衣装（制服） | 紺＋白 | `#1F2A44` ／ `#F2F2F0` | 紺ジャンパースカート＋白襟/ボレロ |
+| コスチューム（深層） | 緋色基調＋金差し＋黒 | `#C8102E` ／ `#C8A24B` ／ `#16161A` | 和風射手装束（image.png は黒髪版を採用） |
+| 能力光（光の弓） | 淡い金〜白光 | `#F3E2A9` | 力の象徴。金属でない |
+
+### 7.4 プロンプト用キャラ正典ブロック（英語・コピペ用）
+
+```text
+Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace. Glossy jet-black long hair tied in a high ponytail (soft when let down); large calm dark eyes with a steady, unwavering gaze; fair skin; slender, delicate build but upright, well-trained posture (graceful yet strong). TWO looks, same girl: (A) surface — navy Catholic-mission-school uniform (jumper skirt + bolero), a slim cloth bow-wrap over the shoulder, quiet and refined; (B) deep layer — a crimson Japanese archer costume (one shoulder bare, tasuki sash, black accents, gold trim) wielding a bow of pure pale-gold light (NOT metal — a manifestation of power). Calm, composed, polite; softens into an unexpectedly childlike smile off guard. Light modern-anime tone. No readable text, no numbers, no HUD.
+```
+
+### 7.5 リファレンス画像（codex 生成）
+
+> 下記は §7.1–7.4 を台本に codex で生成した設定画。プレビュー確認用に埋め込む（著者写真ではなく**生成物**）。直す場合はプロンプト修正→ v+1 再生成。
+
+（生成後にここへリンクを埋め込む）
 
 ---
 
