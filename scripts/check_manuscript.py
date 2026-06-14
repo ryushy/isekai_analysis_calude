@@ -27,6 +27,8 @@ CVE-0 の核：
     [WARN] 15. Markdownリンク残骸      … 本文中の [text](url)
     [WARN] 16. 字数範囲                … --min/--max 指定時のみ
     [WARN] 17. 呼称ゆれ                … 同一人物に複数の敬称（〇〇先輩／〇〇さん）が混在＝要目視
+    [WARN] 18. 専門語・予備知識語       … 庇/ひさし/あふれ/心意/演算/容量 等（現象・体感語へ）
+    [WARN] 19. 英字混入                … 本文中のラテン文字（英単語の紛れ込み）
 
 使い方:
     python scripts/check_manuscript.py docs/manuscript/prototypes/prototype_ep1_battle.md
@@ -86,6 +88,13 @@ DISCLOSURE_SENSITIVE = [
 RE_FOREIGN = re.compile(
     "[" "ᄀ-ᇿ가-힯㄰-㆏" "Ѐ-ӿ" "฀-๿" "؀-ۿ" "ऀ-ॿ" "]"
 )
+
+# 18. 専門語・予備知識が要る語（在野/本文に出すと不親切。現象・体感語へ置換）
+#     例：庇/ひさし（→傘・薄い膜）、あふれる（容量超過の意→抱えきれず潰れる）、心意/演算/容量
+JARGON_WORDS = ["庇", "ひさし", "あふれ", "心意", "演算", "容量", "literacy"]
+
+# 19. 英字（ラテン文字）の混入（英単語の紛れ込み。例：small）。固有名は header/メタで管理
+RE_LATIN_RUN = re.compile(r"[A-Za-z]{2,}")
 
 # 17. 呼称（敬称）。会話・地の文で人物をどう呼ぶか。同一人物に複数の呼び方が
 #     混在したら WARN（話者で変わるのは正常＝要目視。表記ゆれ・取り違えの検出）。
@@ -237,6 +246,15 @@ def check_file(path: Path, args: argparse.Namespace) -> FileReport:
             # 15. Markdown リンク残骸
             if re.search(r"\[[^\]]+\]\([^)]+\)", line):
                 report.add("15-リンク残骸", "WARN", line_no, "Markdown リンク（本文には残さない）")
+
+            # 18. 専門語・予備知識が要る語
+            for w in JARGON_WORDS:
+                if (w.isascii() and w.lower() in low) or (not w.isascii() and w in line):
+                    report.add("18-専門語", "WARN", line_no, f"「{w}」（予備知識が要る語。現象・体感語に置換を検討）")
+
+            # 19. 英字（ラテン文字）の混入
+            for m in RE_LATIN_RUN.finditer(line):
+                report.add("19-英字混入", "WARN", line_no, f"「{m.group(0)}」（英単語の混入。日本語に）")
 
             # 17. 呼称（敬称）の収集（同一人物の呼び方ゆれを後で検出）
             for m in RE_APPELLATION.finditer(line):
