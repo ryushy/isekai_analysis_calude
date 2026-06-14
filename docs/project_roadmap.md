@@ -37,9 +37,9 @@
 
 ## 3. ワークフロー（執筆1話あたりの標準）
 
-1. **章アウトライン**（PT）：[series/disclosure_ledger.md](series/disclosure_ledger.md) で開示可否を確認しながら章の引き・伏線配置を決める。
-2. **本文執筆**（CC）：[guides/writing_style_notes.md](guides/writing_style_notes.md) 準拠。git 非表示・ライト口語・失敗の描写。
-3. **機械検査**：`python scripts/check_manuscript.py <原稿>` で AI 執筆の癖（git語露出・地の文太字・難語・早出し語 等）を NG ゼロにする（[guides/ai_writing_pitfalls.md](guides/ai_writing_pitfalls.md)）。
+1. **章アウトライン**（PT）：[series/disclosure_ledger.md](series/disclosure_ledger.md) で開示可否を確認しながら章の引き・伏線配置を決める。**各ビートに、出来事だけでなく「五感・内面・会話・戦闘の手触り」の素を1つずつ書き込む**（あっさり防止・[guides/writing_style_notes.md §4.5](guides/writing_style_notes.md)）。1話の目安＝5,500〜6,500字。
+2. **本文執筆**（CC）：[guides/writing_style_notes.md](guides/writing_style_notes.md) 準拠。git 非表示・ライト口語・失敗の描写。**プロットで仕込んだ四要素（五感/内面/会話/手触り）を各シーンに展開**。
+3. **機械検査＋密度チェック**：`python scripts/check_manuscript.py <原稿>` で AI 執筆の癖（git語露出・地の文太字・難語・早出し語 等）を NG ゼロに（[guides/ai_writing_pitfalls.md](guides/ai_writing_pitfalls.md)）。あわせて**字数（目安内か）と密度（四要素が各シーンにあるか）**を確認。
 4. **台帳更新**：確定事実→[series/canon_log.md](series/canon_log.md)、開示実績→disclosure_ledger。
 5. **レビュー**（REV）：機械検査の後に `reader-personas`→`editor-kawahara`/`editor-tsukikage`。指摘を改稿に反映。
 6. **メディア**（MED・任意）：`storyboard`→`seedance`。
