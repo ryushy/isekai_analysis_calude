@@ -20,6 +20,7 @@ CVE-0 の**深層ステージ（実在地ベースのダンジョンインスタ
 
 - codex MCP 接続済み（`claude mcp list` に `codex ... ✔ Connected`）。未接続なら [seedance/references/setup.md](../seedance/references/setup.md) を案内。
 - 入力は2系統：**(A) 実在地・参考画像**（locations の実在地／`media/common/reference/`／著者提示の参考画像）を歪めた深層版／**(B) 創造上のテキスト**（幻の地下鉄駅・未踏の場所など表層に無い場所）。
+- **(A) で参考写真が無い／不足なら、手で用意せず [references/reference-fetch.md](references/reference-fetch.md) のフロー**（Web検索→`Special:FilePath`でcurl取得→分析→`media/common/reference/locations/<slug>/REFERENCE.md` に DNA をキャッシュ）で入手・再利用する。既にカードがあれば再取得しない。
 - 表現規則は storyboard と共通：縦横は用途で選ぶ（establishing＝16:9 シネマ／seedance 連携＝縦9:16）。**読める文字・数字・HUD を出さない／git・専門語は世界観上も非表示／FAB＝淡い光のみ**。
 
 ## ワークフロー
