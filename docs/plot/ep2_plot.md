@@ -2,14 +2,14 @@
 
 > 第1話＝[ep1_plot.md](ep1_plot.md)／本文[../manuscript/book1/01-01_modori_jirushi.md](../manuscript/book1/01-01_modori_jirushi.md) の直後。話ID＝`B1-02` 想定。
 > 新フロー準拠：**各ビートに「出来事＋五感・内面・会話・戦闘の手触り」を仕込む**（[../guides/writing_style_notes.md §4.5](../guides/writing_style_notes.md)・[roadmap §3](../project_roadmap.md)）。1話目安5,500〜6,500字。
-> 準拠：[../settings/locations.md](../settings/locations.md)（本牧＝自宅＋幻の地下鉄駅／山手＝学校／みなとみらい）／[../settings/battle_system.md §1-3](../settings/battle_system.md)（ダイブ・戻り標・乱入/監視）／[../settings/digital_tattoo.md](../settings/digital_tattoo.md)（弓型タトゥー・遠隔狙撃）／[../settings/heroine_core.md](../settings/heroine_core.md)（篠宮澪・監視役・**見逃しの三本足場 §1.5**）／[../settings/fab_persona.md](../settings/fab_persona.md)／開示＝[../series/disclosure_ledger.md](../series/disclosure_ledger.md)。
+> 準拠：[../settings/locations.md](../settings/locations.md)（本牧＝自宅＋幻の地下鉄駅／山手＝学校／みなとみらい＝コスモワールド第1ダンジョン）／[../settings/battle_system.md §1-3](../settings/battle_system.md)（ダイブ・戻り標・乱入/監視）／[../settings/digital_tattoo.md](../settings/digital_tattoo.md)（弓型タトゥー・遠隔狙撃）／[../settings/heroine_core.md](../settings/heroine_core.md)（篠宮澪・監視役・**見逃しの三本足場 §1.5**）／[../settings/fab_persona.md](../settings/fab_persona.md)／開示＝[../series/disclosure_ledger.md](../series/disclosure_ledger.md)。
 > ステータス：**プロット v0.3**（本文化前）。著者FB「**2話の葛藤が唐突**」を受け、見逃しを**手順＋弓道の規律＋第3勢力（ダンジョンのイレギュラー）共闘の目撃**で裏打ちする構成へ改訂（2026-06-14）。
 
 ---
 
 ## 0. ログライン
 
-みなとみらいでの"無登録の潜り"は、見られていた。遠くから帰り道を射抜く少女・**篠宮澪**が、監視の糸として近づく――**確かめてから報告する、それが手順**。だが対峙の最中、二人は深層の**イレギュラー（点の無い混沌）**に呑まれる。一点を射抜く澪の弓は、撃つべき一点を失って無力。代わりに二人を継ぎ目から引き出したのは、何も分かっていないはずのナギの"惹かれる力"だった。守られた澪は、引き絞った指を、引けない。追われた先で見つけたのは、駅のない街・本牧の、誰の目も届かない幻の駅。
+みなとみらい・コスモワールドでの"無登録の潜り"は、見られていた。遠くから帰り道を射抜く少女・**篠宮澪**が、監視の糸として近づく――**確かめてから報告する、それが手順**。だが対峙の最中、二人は深層の**イレギュラー（点の無い混沌）**に呑まれる。一点を射抜く澪の弓は、撃つべき一点を失って無力。代わりに二人を継ぎ目から引き出したのは、何も分かっていないはずのナギの"惹かれる力"だった。守られた澪は、引き絞った指を、引けない。追われた先で見つけたのは、駅のない街・本牧の、誰の目も届かない幻の駅。
 
 ## 1. この話の目的
 

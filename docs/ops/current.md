@@ -13,7 +13,7 @@
 
 - ✅ 設定規格書：[battle_system](../settings/battle_system.md)／[digital_tattoo](../settings/digital_tattoo.md)／[anomaly_mark](../settings/anomaly_mark.md)／[dungeon_design](../settings/dungeon_design.md)／[fab_persona](../settings/fab_persona.md)／[factions](../settings/factions.md)／[protagonist_core](../settings/protagonist_core.md)
 - ✅ 第1話試作3本：[prototypes/](../manuscript/prototypes/)（静止した雨／剣のひと／ひと晩寝かせる）
-- ✅ **第1話 本文 v0.4**：[manuscript/book1/01-01_modori_jirushi.md](../manuscript/book1/01-01_modori_jirushi.md)「戻り標」（横浜＝学校:山手／ダンジョン:みなとみらい駅。**漢字LN是正＋シールド統一済**・空白除き約6,000字＝NG0/WARN0）。レビュー＝[review/01-01_*](../review/)。**1話の目安字数5,500〜6,500・密度の四要素**を [guides/writing_style_notes §4.5](../guides/writing_style_notes.md)・[roadmap §3](../project_roadmap.md) に制度化
+- ✅ **第1話 本文 v0.5**：[manuscript/book1/01-01_modori_jirushi.md](../manuscript/book1/01-01_modori_jirushi.md)「戻り標」（横浜＝学校:山手／**ダンジョン:コスモワールドの非常口＝終わらない「炎と森のカーニバル」**＝SEKAI NO OWARI着想。**第1ダンジョンを駅→遊園地へ移設・固有現象＝記録の雨は維持・敵＝獣→ずぶ濡れの道化（戦闘メカ不変）**・空白除き約6,000字）。レビュー＝[review/01-01_*](../review/)。**1話の目安字数5,500〜6,500・密度の四要素**を [guides/writing_style_notes §4.5](../guides/writing_style_notes.md)・[roadmap §3](../project_roadmap.md) に制度化
 - ✅ ストーリーボード3枚（確定容姿v2）：[../../media/storyboard/](../../media/storyboard/)（剣・バトル）＋ストーリーボードリポジトリ（訓練）
 - ✅ 制作スキル：`storyboard`／`seedance`（codex MCP・Higgsfield 確認済）
 - ✅ 管理基盤：ops三層・series台帳（canon/timeline/disclosure/episode_id）・レビュースキル3（reader-personas/editor-kawahara/editor-tsukikage）
