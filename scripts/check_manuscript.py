@@ -190,17 +190,19 @@ def check_file(path: Path, args: argparse.Namespace) -> FileReport:
         masked = mask_quotes(line)
         low = line.lower()
 
-        # 1. git 用語（英語は小文字化して語境界、カナはそのまま）
-        for term in GIT_TERMS:
-            if term.isascii():
-                if re.search(rf"(?<![a-z]){re.escape(term)}(?![a-z])", low):
+        # 見出し・表・引用（>）行＝作者側スキャフォールドは本文検査の対象外
+        if not is_meta_line:
+            # 1. git 用語（英語は小文字化して語境界、カナはそのまま）
+            for term in GIT_TERMS:
+                if term.isascii():
+                    if re.search(rf"(?<![a-z]){re.escape(term)}(?![a-z])", low):
+                        report.add("01-git用語", "NG", line_no, f"「{term}」（表層に git 用語を出さない＝著者要件B）")
+                elif term in line:
                     report.add("01-git用語", "NG", line_no, f"「{term}」（表層に git 用語を出さない＝著者要件B）")
-            elif term in line:
-                report.add("01-git用語", "NG", line_no, f"「{term}」（表層に git 用語を出さない＝著者要件B）")
 
-        # 4. 章番号参照
-        for m in RE_CHAPTER_REF.finditer(line):
-            report.add("04-章番号参照", "NG", line_no, f"「{m.group(0)}」（場面・時間表現に置換）")
+            # 4. 章番号参照
+            for m in RE_CHAPTER_REF.finditer(line):
+                report.add("04-章番号参照", "NG", line_no, f"「{m.group(0)}」（場面・時間表現に置換）")
 
         if not is_meta_line:
             # 2./3. メタ作者用語
