@@ -141,7 +141,11 @@ Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace.
 
 > 下記は §7.1–7.4 を台本に codex で生成した設定画。プレビュー確認用に埋め込む（著者写真ではなく**生成物**）。直す場合はプロンプト修正→ v+1 再生成。
 
-（生成後にここへリンクを埋め込む）
+**v1（2026-06-14・codex 生成）**：表層＝紺制服のターンアラウンド（正面/斜め/横/背面）＋表情差分／深層＝緋色の和風射手装束＋光の弓＋表情差分／下段に配色見本。
+
+![澪 設定画 v1（制服ターンアラウンド＋緋色射手装束＋表情差分＋配色）](../../media/storyboard/character-mio/outputs/ref_sheet_v1.png)
+
+- 生成物：[../../media/storyboard/character-mio/outputs/ref_sheet_v1.png](../../media/storyboard/character-mio/outputs/ref_sheet_v1.png)
 
 ---
 
@@ -150,3 +154,4 @@ Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace.
 | 日付 | 内容 |
 |---|---|
 | 2026-06-14 v0.1 | 著者リファレンス（顔・体型＝写真2枚＝森脇リリカ／コスチューム＝image.png／ペルソナ＝森脇リリカ参照／ラッキースケベ的接触）を反映し制作用シートを新規作成。容姿に「凛と柔らかいの二面」、性格に「表＝静/礼・素＝柔らかい・ナギの前で崩れる」、§3.5 ラッキースケベ（距離のギャップ・健全コメディ）を規格化。heroine_core を正本とし本シートは即参照用 |
+| 2026-06-14 v0.2 | `character-sheet` スキルで **§7 ビジュアルリファレンス仕様**（7.1 ターンアラウンド／7.2 小物／7.3 カラー指定／7.4 英語キャラ正典ブロック）を追加。§7.5 に codex 生成の設定画 v1（制服TA＋緋色射手装束＋表情差分＋配色見本）を埋め込み（プレビュー確認用） |
