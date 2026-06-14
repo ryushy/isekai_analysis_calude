@@ -1,0 +1,12 @@
+#!/bin/sh
+# CVE-0 post-commit（事後フック）：作業ブランチなら main へのマージ手順を案内
+branch="$(git rev-parse --abbrev-ref HEAD 2>/dev/null)"
+case "$branch" in
+  main|master) ;;
+  *)
+    echo "✓ commit done on '$branch'."
+    echo "  完了したら main へマージ:"
+    echo "    git switch main && git merge --no-ff $branch && git branch -d $branch"
+    ;;
+esac
+exit 0

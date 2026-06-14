@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '[CVE-0] 再開ガイド: docs/ops/current.md（進行）→ docs/ops/backlog.md（優先）。設計原則=docs/project_handover.md。Git=ブランチ運用（main直コミット禁止・作業ブランチで commit→ main へ --no-ff マージ）。'; sed -n '1,28p' docs/ops/current.md 2>/dev/null",
+            "shell": "bash",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/review_changes.py",
+            "shell": "bash",
+            "asyncRewake": true,
+            "rewakeMessage": "本セッションで編集したファイルに未コミットの変更があります。ブランチ運用（main 直コミット禁止・作業ブランチで commit → main へ --no-ff マージ）に従い、差分を確認してコミットしてください。設計原則（git 用語を表に出さない・インフレ回避・開示台帳 docs/series/disclosure_ledger.md の段階遵守）に反していないか点検し、日本語プレフィックス（feat:/fix:/docs:/refactor: 等）を付け、対象ファイルを個別ステージング（git add . で無関係差分を巻き込まない）してください。\n\n変更サマリー：",
+            "rewakeSummary": "未コミット変更をレビューして作業ブランチでコミット",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

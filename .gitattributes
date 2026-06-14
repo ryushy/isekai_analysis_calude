@@ -1,0 +1,29 @@
+# デフォルトは Git に判定させる
+* text=auto
+
+# テキスト系は LF 固定（Windows での CRLF 警告抑制）
+*.md     text eol=lf
+*.txt    text eol=lf
+*.json   text eol=lf
+*.py     text eol=lf
+*.js     text eol=lf
+*.ts     text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+*.toml   text eol=lf
+*.sh     text eol=lf
+.gitattributes  text eol=lf
+.gitignore      text eol=lf
+
+# フック（sh）は LF 必須
+git-hooks/*     text eol=lf
+
+# バイナリ（ストーリーボード等の生成物）
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.webp   binary
+*.gif    binary
+*.pdf    binary
+*.mp4    binary
+*.zip    binary

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.mypy_cache/
+.venv/
+.ruff_cache/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+*.swp
+
+# 一時作業
+tmp/
+*.tmp
+
+# 注意：media/storyboard 配下の生成画像（*.png 等）は「成果物」として追跡する。
+# 動画(*.mp4)は容量が大きいため、追跡したくない場合は次行のコメントを外す:
+# media/**/outputs/seedance/*.mp4
