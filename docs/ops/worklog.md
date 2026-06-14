@@ -14,6 +14,7 @@
 - **動画ワークフロー導入**：`storyboard`／`seedance` スキル＋`.mcp.json`（codex）。codex MCP 接続・Higgsfield MCP・seedance-short-video スキルを確認。
 - **docs 再構成**：[restructure_docs.py](../../scripts/restructure_docs.py) で plot/manuscript/guides/media へ分離（リンク自動張替え・71リンク健全）。
 - **管理基盤を移植（naro_novel）**：ops三層（README/current/backlog/worklog/snapshots）・series台帳（canon_log/story_timeline/disclosure_ledger/episode_id_convention）・レビュースキル3（reader-personas/editor-kawahara/editor-tsukikage）・project_handover/roadmap。
+- **Git運用を導入**：ブランチ運用（main直コミット禁止→作業ブランチ→`--no-ff`マージ）。native hooks（pre-commit/commit-msg/post-commit）＋Claudeフック（SessionStart復帰・Stop未コミットレビュー）＋`git-flow`スキル＋[setup_git](../../scripts/setup_git.ps1)＋[git_workflow.md](../guides/git_workflow.md)。フック動作を検証済み（main直ブロック・プレフィックス強制・リンク健全性）。本セッションの成果を `feature/infra-and-management` に4コミットで投入。
 
 ---
 

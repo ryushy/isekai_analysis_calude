@@ -16,6 +16,7 @@
 - ✅ ストーリーボード3枚（確定容姿v2）：[../../media/storyboard/](../../media/storyboard/)（剣・バトル）＋ストーリーボードリポジトリ（訓練）
 - ✅ 制作スキル：`storyboard`／`seedance`（codex MCP・Higgsfield 確認済）
 - ✅ 管理基盤：ops三層・series台帳（canon/timeline/disclosure/episode_id）・レビュースキル3（reader-personas/editor-kawahara/editor-tsukikage）
+- ✅ Git運用：ブランチ運用＋フック（pre-commit/commit-msg/post-commit＋Claude SessionStart/Stop）＋`git-flow`スキル。現在 `feature/infra-and-management` に成果コミット済（**main へのマージは未／著者承認待ち**）
 
 ## 次のアクション（優先順）
 
