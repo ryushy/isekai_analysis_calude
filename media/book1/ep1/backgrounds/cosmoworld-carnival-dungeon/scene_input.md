@@ -38,4 +38,5 @@
 | バージョン | 内容 |
 |---|---|
 | v1 | 場面1（敷居・夕）／場面2（カーニバル全開・夜）／場面3（戦闘後・静謐）を 16:9 で初回生成。`outputs/cosmoworld_0{1,2,3}_*_v1.png` |
-| v2（場面1のみ） | 非常口を大観覧車の足元・裏手へ寄せて再生成。`outputs/cosmoworld_01_threshold_dusk_v2.png`（採用）。著者OK |
+| v2（場面1のみ） | 非常口を大観覧車の足元・裏手へ寄せて再生成。`outputs/cosmoworld_01_threshold_dusk_v2.png`。著者OK |
+| v3セット（採用） | 著者FB「実在に忠実化＋02/03とつながる構成」反映。**3枚を同一視点・同一ランドマーク**（観覧車＝ハブは無地の光／多色ループコースター／MM21高層ビル／ステンレス誘導柵／濡れた橙路面／足元の非常口）で再生成し地続きのシーケンス化。実在参照＝`../reference/コスモワールド1.png`・`コスモワールド2.png`。採用＝`cosmoworld_01_threshold_dusk_v3.png`／`cosmoworld_02_carnival_night_v2.png`／`cosmoworld_03_aftermath_v2.png` |
