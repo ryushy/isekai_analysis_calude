@@ -2,9 +2,9 @@
 
 > 担当編集者：夏目 凛（槻影七則／テンポ・群像・コメディ担当）
 > 対象ファイル：
-> - `docs/manuscript/book1/03-01_owaranai_shuchakueki.md`（第3話・スローライフ＋削れの種・約4,200字）
-> - `docs/manuscript/book1/04-01_nemutteiru_aida_ni.md`（第4話・特訓＋削れ＋澪共闘・約4,000字）
-> 照合：`writing_style_notes.md §4.5`／`fab_persona.md`／`character_sheet_mio.md`／`02-01_mirareteita.md`（声の連続性）
+> - `docs/manuscript/book1/03_owaranai_shuchakueki.md`（第3話・スローライフ＋削れの種・約4,200字）
+> - `docs/manuscript/book1/04_nemutteiru_aida_ni.md`（第4話・特訓＋削れ＋澪共闘・約4,000字）
+> 照合：`writing_style_notes.md §4.5`／`fab_persona.md`／`character_sheet_mio.md`／`02_mirareteita.md`（声の連続性）
 
 ---
 

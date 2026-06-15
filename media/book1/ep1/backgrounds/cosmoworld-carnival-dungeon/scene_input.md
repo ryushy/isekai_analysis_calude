@@ -2,7 +2,7 @@
 
 > 種別：背景・ステージ（第1ダンジョン）／用途：establishing 16:9 × 3
 > 案件slug：`cosmoworld-carnival-dungeon`
-> 正典：[01-01_modori_jirushi.md](../../../../../docs/manuscript/book1/01-01_modori_jirushi.md)（観覧車・記録の雨・森化・歪む非常口・道化の楽団）／[dungeon_design.md §2](../../../../../docs/settings/dungeon_design.md)（ありえない一点＝閉園なのに観覧車が回り灯が点り雨が降る）。
+> 正典：[01_modori_jirushi.md](../../../../../docs/manuscript/book1/01_modori_jirushi.md)（観覧車・記録の雨・森化・歪む非常口・道化の楽団）／[dungeon_design.md §2](../../../../../docs/settings/dungeon_design.md)（ありえない一点＝閉園なのに観覧車が回り灯が点り雨が降る）。
 
 ## 同一性（3場面で保持）
 

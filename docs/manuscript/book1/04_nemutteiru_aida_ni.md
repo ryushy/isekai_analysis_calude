@@ -1,4 +1,4 @@
-# B1-04-01「眠っている間に」
+# B1-04「眠っている間に」
 
 > 第4話。プロット＝[../../plot/ep4_plot.md](../../plot/ep4_plot.md)（v0.3）。第3話「終わらない終着駅」（拠点獲得＋削れの種）の直後。
 > 文体＝[../../guides/writing_style_notes.md](../../guides/writing_style_notes.md)（LN漢字レベル §1.1）／[../../guides/ai_writing_pitfalls.md](../../guides/ai_writing_pitfalls.md)。人物＝篠宮澪（[../../settings/heroine_core.md](../../settings/heroine_core.md)・[../../settings/character_sheet_mio.md](../../settings/character_sheet_mio.md)）／FAB（[../../settings/fab_persona.md](../../settings/fab_persona.md) §4.5 削れの段階表）。

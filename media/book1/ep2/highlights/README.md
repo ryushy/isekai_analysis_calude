@@ -1,7 +1,7 @@
 # 第2話「見られていた」ハイライト案件
 
 > 第2話の山場を**連続で見る**観賞用スチル（16:9 横）×9。台本＝[01_highlights_script.md](01_highlights_script.md)。
-> 正典＝[../../../../docs/manuscript/book1/02-01_mirareteita.md](../../../../docs/manuscript/book1/02-01_mirareteita.md)（v0.4）。第1話版＝[../../ep1/highlights/](../../ep1/highlights/)。
+> 正典＝[../../../../docs/manuscript/book1/02_mirareteita.md](../../../../docs/manuscript/book1/02_mirareteita.md)（v0.4）。第1話版＝[../../ep1/highlights/](../../ep1/highlights/)。
 
 ## v記録
 

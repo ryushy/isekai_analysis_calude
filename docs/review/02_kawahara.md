@@ -1,8 +1,8 @@
-# 編集レビュー：B1-02-01「見られていた」（第2話 v0.3）
+# 編集レビュー：B1-02「見られていた」（第2話 v0.3）
 
 > 担当編集者：九条 透（[editor-kawahara](../../.claude/skills/editor-kawahara/SKILL.md)／川原礫七原則）
-> 対象ファイル：[../manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)
-> 連続性確認：[../manuscript/book1/01-01_modori_jirushi.md](../manuscript/book1/01-01_modori_jirushi.md)
+> 対象ファイル：[../manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)
+> 連続性確認：[../manuscript/book1/01_modori_jirushi.md](../manuscript/book1/01_modori_jirushi.md)
 > 参照：[../../docs/settings/heroine_core.md](../../docs/settings/heroine_core.md)・[../../docs/settings/character_sheet_mio.md](../../docs/settings/character_sheet_mio.md)・[../../docs/settings/protagonist_core.md](../../docs/settings/protagonist_core.md)・[../series/disclosure_ledger.md](../series/disclosure_ledger.md)・[../guides/writing_style_notes.md](../guides/writing_style_notes.md)
 > 総文字数：約5,300字（空白除く概算。目安5,500〜6,500字の下限をわずかに割る）
 

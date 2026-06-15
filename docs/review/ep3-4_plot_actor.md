@@ -1,7 +1,7 @@
 # 役者目線レビュー：第3話「終わらない終着駅」／第4話「眠っている間に」 — 霧島 怜
 
 > 対象＝[ep3_plot.md](../plot/ep3_plot.md)（拠点獲得＋説明会＋削れの種）／[ep4_plot.md](../plot/ep4_plot.md)（特訓＋削れの代償＋澪共闘）。
-> 照合＝[character_sheet_mio.md](../settings/character_sheet_mio.md)／[heroine_core.md](../settings/heroine_core.md)／[protagonist_core.md](../settings/protagonist_core.md)／[fab_persona.md](../settings/fab_persona.md)／第2話本文[../manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)。
+> 照合＝[character_sheet_mio.md](../settings/character_sheet_mio.md)／[heroine_core.md](../settings/heroine_core.md)／[protagonist_core.md](../settings/protagonist_core.md)／[fab_persona.md](../settings/fab_persona.md)／第2話本文[../manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)。
 > 作法＝観察→（俳優としての）引っかかり→提案（演技の七つの問い）。
 
 ---

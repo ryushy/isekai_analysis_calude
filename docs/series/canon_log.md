@@ -48,6 +48,7 @@
 | C-030 | 全10巻・3大弧。早すぎるラスボス回避（敵の階段） | [../plot/series_arc_draft.md](../plot/series_arc_draft.md) |
 | C-031 | **10巻＝受容**（改変を選ばず喪失を引き受ける）＋ upstream 露見＝続編の種 | [../settings/protagonist_core.md §3-6](../settings/protagonist_core.md)／[../plot/series_arc_draft.md](../plot/series_arc_draft.md) |
 | C-032 | **巻1（B1）の構成確定**（ARC-01・2026-06-15）：**約18〜20話（≈11万字）**で1冊。到達点＝**最初の仲間（澪）の確立＋当面の敵への初の決着＋削れの天秤の起動**。**巻1の当面の敵＝監視機構の末端（無origin派・統制機構の末端実働＝非致死の追跡者）**＝戻り標を辿る"足跡読み"の追っ手で、**撃破でなく出し抜く決着**（人物像・名は未定）。1話の道化の楽団は後巻の大物として温存。**series_arc の10行表は「巻」でなく「弧ビート（到達点）」**と再定義（1巻＝複数ビートを束ねる二層構造）。縦糸＝削れの天秤（自力↔FAB）を巻1〜7〜10へ一直線で明記 | [../plot/book1_structure.md](../plot/book1_structure.md)／[../plot/book1_skeleton.md](../plot/book1_skeleton.md)／[../plot/series_arc_draft.md](../plot/series_arc_draft.md) |
+| C-034 | **制作構造を5層に整理＋ID 2階層化＋「章」廃止**（2026-06-15 著者方針）：設計の階層＝**物語全体→大弧→巻→局面（ブロック）→話**。**計画は巻→局面まで・話は執筆しながら割る**（1局面に1本以上）。ID＝**`B{巻}-{話2桁}`**（旧 `B{巻}-{章}-{話}` を簡略化）。「章」は廃止（単行本化で数話を束ねる単位として復活）。plot（設計メモ）と manuscript（本文）は同じ"話"の2ビュー。旧 `B1-01-01`〜`B1-04-01` を `B1-01`〜`B1-04` にリネーム済み | [../series/episode_id_convention.md](../series/episode_id_convention.md)／[../plot/book1_skeleton.md](../plot/book1_skeleton.md)／[../plot/book1_structure.md §3.4](../plot/book1_structure.md) |
 | C-033 | **巻1の当面の敵＝追跡者「鵜飼（うかい）」を暫定確定**（2026-06-15・C-032 の末端の具体化／**人物像・能力・名は仮＝差し替え前提**）。中央評議会／統制機構の**末端監察官**（無origin派の下流実働・澪と同じ登録/監視系の下の人間）。**足跡読み＝観測者/射手型**（本人の戦闘力は低く観測優越がすべて）。能力＝①**戻り標（帰還アンカー）の残響を辿り動線・拠点を割り出すトレース** ②**抹消申請＝「なかったことにする」タグ＝通れば拠点と深層活動の記録が revert（非致死）**。芯＝「君を消すのは悪意でなく必要だ」＝議長センの末端版。弱点＝デッドゾーン化・盲目化／裏取りに面側証言が要る（澪の報告保留が効く）。**決着＝撃破でなく出し抜く**（ナギ＝点×澪＝面の連携＋囮の戻り標＋デッドゾーン盲目化で抹消申請を空振りさせ「なかったことにさせない」＝澪の正式仲間化の決め手・巻1クライマックス）。鵜飼は退き背後に "上" の影＝巻末へ接続 | [../plot/book1_skeleton.md §1.5](../plot/book1_skeleton.md)／[../settings/factions.md §4](../settings/factions.md)／[../settings/battle_system.md §1-3/§4-2/§5](../settings/battle_system.md) |
 
 ---
@@ -57,6 +58,7 @@
 | 日付 | 内容 |
 |---|---|
 | 2026-06-14 初版 | これまでに確定した世界・時代・人物・結末の核を C-001〜C-031 として記録。以後、確定ごとに追記（撤回も新行で記録） |
+| 2026-06-15 追記 | **C-034 を追記**：制作構造を5層（物語全体→大弧→巻→局面→話）に整理・ID 2階層化（`B{巻}-{話}`）・「章」廃止（単行本化で復活）・設計は局面まで/話は執筆時に割る。旧 `B1-01-01`〜`B1-04-01` を `B1-01`〜`B1-04` にリネーム（[migrate_id_2level.py](../../scripts/migrate_id_2level.py)）。[episode_id_convention.md](episode_id_convention.md) 改定 |
 | 2026-06-15 追記 | **C-033 を追記**：巻1の当面の敵＝追跡者「鵜飼」を暫定確定（C-032 の末端の具体化）。統制機構の末端監察官・足跡読み×抹消申請・観測者/射手型・非致死・「出し抜く／なかったことにさせない」決着＝澪の正式仲間化の決め手。人物像・名は仮。[book1_skeleton.md §1.5](../plot/book1_skeleton.md)／[factions.md §4](../settings/factions.md) と連動 |
 | 2026-06-15 追記 | **C-032 を追記**：巻1（B1）構成確定（ARC-01）＝約18〜20話・到達点＝最初の仲間確立＋当面の敵への初の決着＋削れの天秤起動・**当面の敵＝監視機構の末端（非致死の追跡者）**・series_arc 10行表＝弧ビート再定義（二層化）。[book1_structure.md](../plot/book1_structure.md)／[book1_skeleton.md](../plot/book1_skeleton.md) 新設に伴う確定 |
 | 2026-06-14 追記 | **C-029 を追記**：本牧の幻の地下鉄駅＝ナギの拠点（タグ固定の自分だけのインスタンス・固有現象＝終わらない終着駅／淀む終電＝待ち続けて発てなかった人の記憶・冷たい廃駅→温かい隠れ家化）。背景アセット[honmoku_station_hideout_night_v1.png](../../media/common/backgrounds/honmoku-phantom-station-hideout/outputs/honmoku_station_hideout_night_v1.png) 確定を受け、第3話「終わらない終着駅」（拠点獲得＋説明会）の新設に伴い確定事実化 |

@@ -2,7 +2,7 @@
 
 > ヒロインの**制作用・即参照シート**（容姿/体型・服装・性格・口調・能力・関係・声/演技の参照）。
 > 設計の根拠・物語機能は [heroine_core.md](heroine_core.md)（正本）。本シートはビジュアル・キャスティング・演技・短尺制作のための要約。
-> 関連：主人公＝[character_sheet_nagi.md](character_sheet_nagi.md)／タトゥー＝[digital_tattoo.md](digital_tattoo.md)（弓・コスチューム §6.5）／第2話＝[../manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)。
+> 関連：主人公＝[character_sheet_nagi.md](character_sheet_nagi.md)／タトゥー＝[digital_tattoo.md](digital_tattoo.md)（弓・コスチューム §6.5）／第2話＝[../manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)。
 > ステータス：**v0.2**（2026-06-14 §7 ビジュアルリファレンス仕様＋設定画リンクを追加）。
 
 ---

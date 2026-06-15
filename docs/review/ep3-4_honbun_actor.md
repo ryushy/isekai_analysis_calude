@@ -1,8 +1,8 @@
 # 役者目線レビュー：第3話「終わらない終着駅」／第4話「眠っている間に」本文 — 霧島 怜
 
 > 演出家・霧島怜（舞台俳優出身）が、CVE-0 第3話・第4話の**本文**を「自分がこの役を演じられるか＝動機が身体に落ちるか」の一点で見る。
-> 対象＝[03-01_owaranai_shuchakueki.md](../manuscript/book1/03-01_owaranai_shuchakueki.md)／[04-01_nemutteiru_aida_ni.md](../manuscript/book1/04-01_nemutteiru_aida_ni.md)。
-> 照合＝[character_sheet_mio.md](../settings/character_sheet_mio.md)／[heroine_core.md](../settings/heroine_core.md)／[protagonist_core.md](../settings/protagonist_core.md)／[fab_persona.md](../settings/fab_persona.md)／直前演技＝[02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)。
+> 対象＝[03_owaranai_shuchakueki.md](../manuscript/book1/03_owaranai_shuchakueki.md)／[04_nemutteiru_aida_ni.md](../manuscript/book1/04_nemutteiru_aida_ni.md)。
+> 照合＝[character_sheet_mio.md](../settings/character_sheet_mio.md)／[heroine_core.md](../settings/heroine_core.md)／[protagonist_core.md](../settings/protagonist_core.md)／[fab_persona.md](../settings/fab_persona.md)／直前演技＝[02_mirareteita.md](../manuscript/book1/02_mirareteita.md)。
 > 並走レビュー＝[ep3-4_honbun_kawahara.md](ep3-4_honbun_kawahara.md)（構造）／[ep3-4_honbun_tsukikage.md](ep3-4_honbun_tsukikage.md)（テンポ）／[ep3-4_honbun_readers.md](ep3-4_honbun_readers.md)（読者）。actor は「演者として行動が立つか」を担当。
 
 ---

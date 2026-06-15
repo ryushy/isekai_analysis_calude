@@ -1,6 +1,6 @@
-# 役者目線レビュー：第2話「見られていた」(B1-02-01) — 霧島 怜
+# 役者目線レビュー：第2話「見られていた」(B1-02) — 霧島 怜
 
-> 対象＝[../manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)（v0.2）。レビュアー＝[actor-review](../../.claude/skills/actor-review/SKILL.md)（演出家・霧島怜）。
+> 対象＝[../manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)（v0.2）。レビュアー＝[actor-review](../../.claude/skills/actor-review/SKILL.md)（演出家・霧島怜）。
 > 観点＝**行動の妥当性（演じられるか＝動機が身体に落ちるか）**。設定の芯＝[character_sheet_mio.md](../settings/character_sheet_mio.md)／[character_sheet_nagi.md](../settings/character_sheet_nagi.md)。
 > 2026-06-14。
 

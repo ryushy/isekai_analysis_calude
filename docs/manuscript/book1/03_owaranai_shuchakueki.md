@@ -1,6 +1,6 @@
-# B1-03-01「終わらない終着駅」
+# B1-03「終わらない終着駅」
 
-> 第3話。プロット＝[../../plot/ep3_plot.md](../../plot/ep3_plot.md)（v0.2＝4レビュー収束反映）。第2話[02-01_mirareteita.md](02-01_mirareteita.md) の直後。
+> 第3話。プロット＝[../../plot/ep3_plot.md](../../plot/ep3_plot.md)（v0.2＝4レビュー収束反映）。第2話[02_mirareteita.md](02_mirareteita.md) の直後。
 > 文体＝[../../guides/writing_style_notes.md](../../guides/writing_style_notes.md)（LN漢字レベル §1.1）／[../../guides/ai_writing_pitfalls.md](../../guides/ai_writing_pitfalls.md)。FABの声＝[../../settings/fab_persona.md](../../settings/fab_persona.md)。
 > 舞台＝横浜（自宅＝本牧の下宿／拠点＝本牧の幻の地下鉄駅）。背景アセット＝[honmoku_station_hideout_night_v1.png](../../../media/common/backgrounds/honmoku-phantom-station-hideout/outputs/honmoku_station_hideout_night_v1.png)（停車車両を居室化した温かい隠れ家）。
 > 開示遵守＝[../../series/disclosure_ledger.md](../../series/disclosure_ledger.md)（git語・偽origin・"上"・道化集団の正体・喪失真相は不出。固有現象/監視射程はFAB推量のみ。あざ＝微熱のみ）。固有現象＝[../../series/canon_log.md C-029](../../series/canon_log.md)。

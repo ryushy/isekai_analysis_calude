@@ -1,6 +1,6 @@
 # 第3話・第4話 本文 4レビュー統合（synthesis）
 
-> 対象：[03-01_owaranai_shuchakueki.md](../manuscript/book1/03-01_owaranai_shuchakueki.md)「終わらない終着駅」v0.1／[04-01_nemutteiru_aida_ni.md](../manuscript/book1/04-01_nemutteiru_aida_ni.md)「眠っている間に」v0.1。
+> 対象：[03_owaranai_shuchakueki.md](../manuscript/book1/03_owaranai_shuchakueki.md)「終わらない終着駅」v0.1／[04_nemutteiru_aida_ni.md](../manuscript/book1/04_nemutteiru_aida_ni.md)「眠っている間に」v0.1。
 > レビュアー：[九条透＝構造](ep3-4_honbun_kawahara.md)／[夏目凛＝テンポ](ep3-4_honbun_tsukikage.md)／[読者3ペルソナ](ep3-4_honbun_readers.md)／[霧島怜＝役者](ep3-4_honbun_actor.md)。実施：2026-06-15。
 
 ---

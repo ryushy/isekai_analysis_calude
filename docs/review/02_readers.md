@@ -1,7 +1,7 @@
-# 📖 読者ペルソナレビュー：B1-02-01「見られていた」
+# 📖 読者ペルソナレビュー：B1-02「見られていた」
 
-> 対象：[../manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)（第2話 v0.3）／約4,300字（本文）
-> 連続性確認用に第1話 [../manuscript/book1/01-01_modori_jirushi.md](../manuscript/book1/01-01_modori_jirushi.md) を併読。
+> 対象：[../manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)（第2話 v0.3）／約4,300字（本文）
+> 連続性確認用に第1話 [../manuscript/book1/01_modori_jirushi.md](../manuscript/book1/01_modori_jirushi.md) を併読。
 > 3読者ペルソナ（読み方軸 v2）の独立フィードバック。3ペルソナは互いに干渉せず、各自の担当故障モードを最優先で報告する。
 
 ---
