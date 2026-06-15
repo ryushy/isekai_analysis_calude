@@ -1,4 +1,4 @@
-# B1-01-01「戻り標」
+# B1-01「戻り標」
 
 > 第1話。プロット＝[../../plot/ep1_plot.md](../../plot/ep1_plot.md)（案3）。文体＝[../../guides/writing_style_notes.md](../../guides/writing_style_notes.md)（LN漢字レベル §1.1）。
 > 舞台＝横浜（自宅＝本牧・駅無し／学校＝JR山手駅／ダンジョン＝**コスモワールドの非常口**＝みなとみらいの大観覧車。SEKAI NO OWARI〈炎と森のカーニバル〉着想）。開示＝[disclosure_ledger](../../series/disclosure_ledger.md)。

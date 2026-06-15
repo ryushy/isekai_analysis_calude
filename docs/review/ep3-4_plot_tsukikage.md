@@ -2,7 +2,7 @@
 
 > 担当編集者：夏目 凛（なつめ りん）／槻影七則・コメディ・群像・テンポ担当
 > 対象：[../plot/ep3_plot.md](../plot/ep3_plot.md)（v0.1）／[../plot/ep4_plot.md](../plot/ep4_plot.md)（v0.2）
-> 照合：[../guides/writing_style_notes.md §4.5](../guides/writing_style_notes.md)／[../settings/fab_persona.md](../settings/fab_persona.md)／[../settings/heroine_core.md](../settings/heroine_core.md)／[../manuscript/book1/02-01_mirareteita.md](../manuscript/book1/02-01_mirareteita.md)
+> 照合：[../guides/writing_style_notes.md §4.5](../guides/writing_style_notes.md)／[../settings/fab_persona.md](../settings/fab_persona.md)／[../settings/heroine_core.md](../settings/heroine_core.md)／[../manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)
 > モード：プロットレビュー（構造評価）。レビュー観点＝会話テンポ／スローライフの緩／副キャラ口調判別／連投リズム・章末の引き／コメディとシリアスの同時進行
 
 ---

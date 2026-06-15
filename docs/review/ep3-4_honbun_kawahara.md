@@ -2,8 +2,8 @@
 
 > 担当編集者：九条 透（川原礫七原則）
 > 対象ファイル：
-> - `docs/manuscript/book1/03-01_owaranai_shuchakueki.md`
-> - `docs/manuscript/book1/04-01_nemutteiru_aida_ni.md`
+> - `docs/manuscript/book1/03_owaranai_shuchakueki.md`
+> - `docs/manuscript/book1/04_nemutteiru_aida_ni.md`
 > 照合：disclosure_ledger／canon_log（C-022/C-027/C-028/C-029）／writing_style_notes §1.1・§4.5／fab_persona §4.5／直前話 02-01／プロット ep3・ep4
 > 総文字数：第3話 約5,400字／第4話 約4,500字（いずれも空白除き概算）
 

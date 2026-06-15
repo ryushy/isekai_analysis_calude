@@ -1,7 +1,7 @@
 # 第1話「戻り標」ハイライト10枚（観賞用・16:9）
 
 第1話の山場を**連続で見る**ための1枚絵×10（PC観賞用・16:9 横・背景重視）。
-台本＝[01_highlights_script.md](01_highlights_script.md)／本文正典＝[01-01_modori_jirushi.md](../../../../docs/manuscript/book1/01-01_modori_jirushi.md)。
+台本＝[01_highlights_script.md](01_highlights_script.md)／本文正典＝[01_modori_jirushi.md](../../../../docs/manuscript/book1/01_modori_jirushi.md)。
 
 ## 生成物（v1・codex `image_gen`・1920x1080）
 

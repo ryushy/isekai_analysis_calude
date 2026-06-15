@@ -1,7 +1,7 @@
-# 編集レビュー：B1-01-01「戻り標」
+# 編集レビュー：B1-01「戻り標」
 
 > 担当編集者：九条 透（川原礫七原則）
-> 対象：docs/manuscript/book1/01-01_modori_jirushi.md ／ 約3,300字
+> 対象：docs/manuscript/book1/01_modori_jirushi.md ／ 約3,300字
 
 ## 総評
 

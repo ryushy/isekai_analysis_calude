@@ -2,7 +2,7 @@
 
 > 種別：ハイライト・スチル（観賞用・PC画面 16:9 横）／用途：第2話の山場を**連続で見る**1枚絵×9
 > 案件slug：`highlights`（`media/book1/ep2/highlights/`）／第1話版＝[../../ep1/highlights/01_highlights_script.md](../../ep1/highlights/01_highlights_script.md)
-> 正典：[02-01_mirareteita.md](../../../../docs/manuscript/book1/02-01_mirareteita.md)（本文 v0.4）
+> 正典：[02_mirareteita.md](../../../../docs/manuscript/book1/02_mirareteita.md)（本文 v0.4）
 > キャラ参照：ナギ＝[../../../common/characters/character-nagi/outputs/ref_sheet_v1.png](../../../common/characters/character-nagi/outputs/ref_sheet_v1.png)／澪＝[../../../common/characters/character-mio/outputs/ref_sheet_v1.png](../../../common/characters/character-mio/outputs/ref_sheet_v1.png)
 > 背景参照：幻の地下鉄駅の隠れ家＝[../../../common/backgrounds/honmoku-phantom-station-hideout/outputs/honmoku_station_hideout_night_v1.png](../../../common/backgrounds/honmoku-phantom-station-hideout/outputs/honmoku_station_hideout_night_v1.png)／緋色射手の構図＝[../../../common/reference/image_yoimiya.png](../../../common/reference/image_yoimiya.png)
 

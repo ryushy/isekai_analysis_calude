@@ -1,6 +1,6 @@
-# 編集長統合：B1-01-01「戻り標」改稿の優先順位
+# 編集長統合：B1-01「戻り標」改稿の優先順位
 
-> 入力＝[読者3名](01-01_personas.md)／[九条（川原礫派）](01-01_kujo.md)／[夏目（槻影派）](01-01_natsume.md)。機械検査＝NG0（[ai_writing_pitfalls](../guides/ai_writing_pitfalls.md)）。
+> 入力＝[読者3名](01_personas.md)／[九条（川原礫派）](01_kujo.md)／[夏目（槻影派）](01_natsume.md)。機械検査＝NG0（[ai_writing_pitfalls](../guides/ai_writing_pitfalls.md)）。
 > 役割：3者を横断し、改稿タスクをTier化する（実作業の指示書）。
 
 ---

@@ -2,7 +2,7 @@
 
 > 種別：ハイライト・スチル（観賞用・PC画面 16:9 横）／用途：第1話の山場を**連続で見る**1枚絵×10
 > 案件slug：`highlights`（`media/book1/ep1/highlights/`）
-> 正典：[01-01_modori_jirushi.md](../../../../docs/manuscript/book1/01-01_modori_jirushi.md)（本文 v0.6）／背景同一性＝[backgrounds/cosmoworld-carnival-dungeon/scene_input.md](../backgrounds/cosmoworld-carnival-dungeon/scene_input.md)
+> 正典：[01_modori_jirushi.md](../../../../docs/manuscript/book1/01_modori_jirushi.md)（本文 v0.6）／背景同一性＝[backgrounds/cosmoworld-carnival-dungeon/scene_input.md](../backgrounds/cosmoworld-carnival-dungeon/scene_input.md)
 > 画風参照（既存・採用セット）：`../backgrounds/cosmoworld-carnival-dungeon/outputs/cosmoworld_01_threshold_dusk_v4.png`（寒色の夕）／`cosmoworld_02_carnival_night_v1.png`（炎の赤）／`cosmoworld_03_aftermath_v1.png`（夜の森＋戻り標）
 > キャラ参照：`../../../common/characters/character-nagi/outputs/ref_sheet_v1.png`（ナギ容姿正典）
 

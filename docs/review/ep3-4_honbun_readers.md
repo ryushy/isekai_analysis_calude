@@ -1,8 +1,8 @@
 # 読者ペルソナレビュー：B1 第3話「終わらない終着駅」・第4話「眠っている間に」（本文）
 
 > 対象ファイル：
-> - `docs/manuscript/book1/03-01_owaranai_shuchakueki.md`（第3話 v0.1）
-> - `docs/manuscript/book1/04-01_nemutteiru_aida_ni.md`（第4話 v0.1）
+> - `docs/manuscript/book1/03_owaranai_shuchakueki.md`（第3話 v0.1）
+> - `docs/manuscript/book1/04_nemutteiru_aida_ni.md`（第4話 v0.1）
 > 総文字数：約7,400字（2話合計）
 > 3人の読者ペルソナ（読み方軸 v2）による独立したフィードバック
 > 照合：`docs/series/disclosure_ledger.md`（B1開示範囲）／`canon_log.md` C-028/C-029／第1・2話本文
