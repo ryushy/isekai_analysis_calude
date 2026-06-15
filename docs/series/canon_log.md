@@ -47,6 +47,7 @@
 |---|---|---|
 | C-030 | 全10巻・3大弧。早すぎるラスボス回避（敵の階段） | [../plot/series_arc_draft.md](../plot/series_arc_draft.md) |
 | C-031 | **10巻＝受容**（改変を選ばず喪失を引き受ける）＋ upstream 露見＝続編の種 | [../settings/protagonist_core.md §3-6](../settings/protagonist_core.md)／[../plot/series_arc_draft.md](../plot/series_arc_draft.md) |
+| C-032 | **巻1（B1）の構成確定**（ARC-01・2026-06-15）：**約18〜20話（≈11万字）**で1冊。到達点＝**最初の仲間（澪）の確立＋当面の敵への初の決着＋削れの天秤の起動**。**巻1の当面の敵＝監視機構の末端（無origin派・統制機構の末端実働＝非致死の追跡者）**＝戻り標を辿る"足跡読み"の追っ手で、**撃破でなく出し抜く決着**（人物像・名は未定）。1話の道化の楽団は後巻の大物として温存。**series_arc の10行表は「巻」でなく「弧ビート（到達点）」**と再定義（1巻＝複数ビートを束ねる二層構造）。縦糸＝削れの天秤（自力↔FAB）を巻1〜7〜10へ一直線で明記 | [../plot/book1_structure.md](../plot/book1_structure.md)／[../plot/book1_skeleton.md](../plot/book1_skeleton.md)／[../plot/series_arc_draft.md](../plot/series_arc_draft.md) |
 
 ---
 
@@ -55,4 +56,5 @@
 | 日付 | 内容 |
 |---|---|
 | 2026-06-14 初版 | これまでに確定した世界・時代・人物・結末の核を C-001〜C-031 として記録。以後、確定ごとに追記（撤回も新行で記録） |
+| 2026-06-15 追記 | **C-032 を追記**：巻1（B1）構成確定（ARC-01）＝約18〜20話・到達点＝最初の仲間確立＋当面の敵への初の決着＋削れの天秤起動・**当面の敵＝監視機構の末端（非致死の追跡者）**・series_arc 10行表＝弧ビート再定義（二層化）。[book1_structure.md](../plot/book1_structure.md)／[book1_skeleton.md](../plot/book1_skeleton.md) 新設に伴う確定 |
 | 2026-06-14 追記 | **C-029 を追記**：本牧の幻の地下鉄駅＝ナギの拠点（タグ固定の自分だけのインスタンス・固有現象＝終わらない終着駅／淀む終電＝待ち続けて発てなかった人の記憶・冷たい廃駅→温かい隠れ家化）。背景アセット[honmoku_station_hideout_night_v1.png](../../media/common/backgrounds/honmoku-phantom-station-hideout/outputs/honmoku_station_hideout_night_v1.png) 確定を受け、第3話「終わらない終着駅」（拠点獲得＋説明会）の新設に伴い確定事実化 |
