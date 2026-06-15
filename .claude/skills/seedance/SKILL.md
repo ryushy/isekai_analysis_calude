@@ -28,6 +28,7 @@ description: Use this when CVE-0 storyboard images are already approved and the 
 ## 固定ルール
 
 - **番号付きグリッドを参照に渡さない**（焼き付き防止）。クリーンキーフレームを使う。
+- **背景とキャラは別レイヤー・別参照で渡す**（既定）：背景＝人物なしプレート（[stage-background](../stage-background/SKILL.md) のレイヤー方針）／キャラ＝[character-sheet](../character-sheet/SKILL.md) の正典。各参照に「これは背景／これはキャラ」と役割を明示。
 - one continuous take／縦9:16／読める文字・字幕・ロゴなし。
 - 主人公の容姿＝[character-canon](../storyboard/references/character-canon.md) 準拠。FAB＝光のみ。武器＝光の象徴。
 - **コスト**：`get_cost:true` で見積りし、本生成はユーザー承認の上で。
