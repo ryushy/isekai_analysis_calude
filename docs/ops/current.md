@@ -5,7 +5,7 @@
 
 ---
 
-## 最終更新：2026-06-15
+## 最終更新：2026-06-16
 
 **フェーズ**：**Phase 0（舞台装置の設計）＝ほぼ完了**。設定の主要レイヤー（世界・戦闘・装備・成長・人物・勢力・連作）を規格書化し、第1話の核（喪失・容姿・10巻受容）まで確定。第1話の試作3本＋ストーリーボード3枚を作成。動画ワークフロー（storyboard/seedance スキル）と**管理基盤（ops/series/レビュースキル）を本セッションで導入**。
 
@@ -14,7 +14,7 @@
 - ✅ 設定規格書：[battle_system](../settings/battle_system.md)／[digital_tattoo](../settings/digital_tattoo.md)／[anomaly_mark](../settings/anomaly_mark.md)／[dungeon_design](../settings/dungeon_design.md)／[fab_persona](../settings/fab_persona.md)／[factions](../settings/factions.md)／[protagonist_core](../settings/protagonist_core.md)
 - ✅ 第1話試作3本：[prototypes/](../manuscript/prototypes/)（静止した雨／剣のひと／ひと晩寝かせる）
 - ✅ **第1話 本文 v0.6**：[manuscript/book1/01_modori_jirushi.md](../manuscript/book1/01_modori_jirushi.md)「戻り標」（横浜＝学校:山手／**ダンジョン:コスモワールドの非常口**＝SEKAI NO OWARI〈炎と森のカーニバル〉着想。**第1ダンジョンを駅→遊園地へ移設・固有現象＝記録の雨は維持**・空白除き約6,000字）。**敵＝道化の楽団を「謎集団」に格上げ**＝native＝獣／Ep1はバグ介入で道化集団が上書き侵入（FABの一言＋違和感で開示安全に伏線化＝[canon_log C-028](../series/canon_log.md)・[disclosure §2](../series/disclosure_ledger.md)）。**4レビュー（霧島/速水/縞田/九条/夏目）がL109密度過多＋道化の伏線弱に収束→園内3カット化＋遠くのオルガン先植えで解消**。レビュー＝[review/01_*](../review/)
-- ✅ ストーリーボード3枚（確定容姿v2）：[../../media/book1/ep1/storyboard/](../../media/book1/ep1/storyboard/)（剣・バトル）＋ストーリーボードリポジトリ（訓練）
+- ✅ 第1話ハイライト（確定容姿v2）：[../../media/book1/ep1/highlights/](../../media/book1/ep1/highlights/)（旧 storyboard を highlights へ再編・剣/バトル）
 - ✅ 制作スキル：`storyboard`／`seedance`（codex MCP・Higgsfield 確認済）
 - ✅ 管理基盤：ops三層・series台帳（canon/timeline/disclosure/episode_id）・レビュースキル3（reader-personas/editor-kawahara/editor-tsukikage）
 - ✅ **第2話 本文 v0.4**：[manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)「見られていた」（篠宮澪 初登場・見逃しの三本足場・点vs面・コスチューム変身・ラッキースケベの緩・**4レビュー収束3点反映**＝章末の引き一撃化/イレギュラー発生トリガー/突破に一拍のつまずき・約6,100字＝NG0/WARN0）。
@@ -36,10 +36,11 @@
 
 - ✅ **ARC-01＝book1 全体構想 完了**（2026-06-15）：著者決定3点＝①**巻1は「最初の仲間（澪）確立＋当面の敵への初の決着」まで＝約18〜20話**②**巻1の当面の敵＝監視機構の末端（非致死の追跡者・撃破でなく出し抜く決着）**③**series_arc 10行表＝弧ビート（到達点）と再定義し二層化**。成果物＝[book1_structure.md](../plot/book1_structure.md)（分析・決定台帳）＋[book1_skeleton.md](../plot/book1_skeleton.md)（巻1正本＝4ブロック構成・縦糸5本）。[series_arc_draft.md](../plot/series_arc_draft.md) v0.2／canon C-032／[factions §4](../settings/factions.md) 反映済。
 
-1. **【次の一手】巻1 第2ブロック（B1-05〜）の設計**：[book1_skeleton.md §1](../plot/book1_skeleton.md) の第2ブロック「追われる者／最初の仲間」を起こす。先に**監視機構の末端＝追跡者の人物設計**（戻り標を辿る"足跡読み"型・撃破でなく出し抜く決着に合う相性／人物像・能力・名）＝[book1_skeleton.md §3 残課題](../plot/book1_skeleton.md)。→ 第5話プロット。
-2. 任意：巻1の縦糸（削れの天秤／監視／澪の仲間化／喪失／道化の気配）の出し入れを第2〜巻末ブロックで配分（[book1_skeleton.md §2](../plot/book1_skeleton.md)）。
-3. 任意：本セッション分の未コミットを git-flow で main へマージ（ARC-01 成果物＋第3・4話本文v0.2 ほか）。
-4. 任意：ストーリーボード（隠れ家establishing は確定済アセットあり／点vs面の共闘絵は第4話）。
+1. ✅ **追跡者の人物設計＝完了**（2026-06-16）：著者決定3点（外見＝**中年の冷徹な実務官**／通称＝**「足取りの鵜飼」で確定**／芯＝**澪の未来の影**＝葛藤を職務で殺した先輩監察官＝澪が報告保留を続けた先の姿＝警告の鏡像）で核ドキュメント [antagonist_ukai_core.md](../settings/antagonist_ukai_core.md) を新設。skeleton §1.5（人物設計確定へ昇格）・[C-035](../series/canon_log.md)・[factions §4](../settings/factions.md)・[disclosure §2](../series/disclosure_ledger.md)（鵜飼の過去＝B1は既視感のみ）反映。
+2. **【次の一手】巻1 第2ブロック（B1-05〜）プロット設計**：[book1_skeleton.md §1](../plot/book1_skeleton.md) の第2ブロック「追われる者／最初の仲間」を起こす。鵜飼の初遭遇（気配・痕跡→顔出し）＋澪の報告保留の露見＋既視感の種＝[antagonist_ukai_core §5](../settings/antagonist_ukai_core.md) のブロック別配置に沿う。→ 第5話プロット。
+3. 任意：巻1の縦糸（削れの天秤／監視／澪の仲間化／喪失／道化の気配）の出し入れを第2〜巻末ブロックで配分（[book1_skeleton.md §2](../plot/book1_skeleton.md)）。
+4. 任意：鵜飼の人物設計を git-flow で main へマージ（核ドキュメント新設＋台帳反映）。
+5. 任意：ストーリーボード（隠れ家establishing は確定済アセットあり／点vs面の共闘絵は第4話）。
 
 - **開示厳守**：重力/量子/4学派/Mythos/偽origin/喪失真相/"上"の正体は完全隠蔽（大弧I前半）。B2段階の上限＝[disclosure_ledger](../series/disclosure_ledger.md)。
 
