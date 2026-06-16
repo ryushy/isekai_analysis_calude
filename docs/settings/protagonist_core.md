@@ -22,7 +22,7 @@
 
 ## 0.1 容姿・出自（確定）
 
-> 著者提示のリファレンス画像に準拠（2026-06-14）。実画像＝[../storyboard/参考画像/](../../media/common/characters/参考画像)（William Franklyn-Miller 系）。
+> 著者提示のリファレンス画像に準拠（2026-06-14）。実画像＝[legacy-william-franklyn-miller/](../../media/common/characters/character-nagi/references/model-photos/approved/legacy-william-franklyn-miller/)（William Franklyn-Miller 系）。
 
 | 項目 | 内容 |
 |---|---|
