@@ -21,7 +21,7 @@
 
 ## 1. 容姿・体型（顔・体型リファレンス）
 
-> **顔・体型の正典リファレンス＝著者提示の写真2枚**：[../../media/common/reference/スクリーンショット 2026-06-14 201207.png](../../media/common/reference/) と [../../media/common/reference/スクリーンショット 2026-06-14 201259.png](../../media/common/reference/)（モデル＝森脇リリカ／※実在人物。顔立ち・体型・雰囲気の参照に用い、経歴等の事実は断定しない）。
+> **顔・体型の正典リファレンス＝著者提示の写真2枚**：[mio_model_ref_20260614_201207.png](../../media/common/characters/character-mio/references/model-photos/approved/mio_model_ref_20260614_201207.png) と [mio_model_ref_20260614_201259.png](../../media/common/characters/character-mio/references/model-photos/approved/mio_model_ref_20260614_201259.png)（モデル＝森脇リリカ／※実在人物。顔立ち・体型・雰囲気の参照に用い、経歴等の事実は断定しない）。
 
 | 項目 | 内容 |
 |---|---|
@@ -38,7 +38,7 @@
 | シーン | 服装 |
 |---|---|
 | 表層（学校・日常） | **山手聖二葉女学院の制服**＝紺のジャンパースカート＋ボレロ（雙葉系ミッション校の品）。肩に**弓巻**を提げる。私服は写真2系（ふんわりした白ニット等・柔らかい少女らしさ）。 |
-| 深層（ダンジョン） | **緋色基調の和風の射手装束**＝コスチューム（能力の外在化・[digital_tattoo §6.5](digital_tattoo.md)）。黒髪ポニーテール・たすき/片肌・光の弓。**リファレンス＝[image_yoimiya.png](../../media/common/reference/image_yoimiya.png)（和風射手の構図・黒髪版）**。制服（洋）↔装束（和）の落差＝主題の可視化。 |
+| 深層（ダンジョン） | **緋色基調の和風の射手装束**＝コスチューム（能力の外在化・[digital_tattoo §6.5](digital_tattoo.md)）。黒髪ポニーテール・たすき/片肌・光の弓。**リファレンス＝[mio_deep_layer_archer_costume_yoimiya_ref.png](../../media/common/characters/character-mio/references/style/mio_deep_layer_archer_costume_yoimiya_ref.png)（和風射手の構図・黒髪版）**。制服（洋）↔装束（和）の落差＝主題の可視化。 |
 
 ---
 
@@ -128,7 +128,7 @@
 | 瞳 | 落ち着いた濃茶〜黒 | `#3B2A24` | 大きく落ち着いた目。視線が強い |
 | 肌 | 白い肌 | `#F5E6DC` | — |
 | 表層衣装（制服） | 紺＋白 | `#1F2A44` ／ `#F2F2F0` | 紺ジャンパースカート＋白襟/ボレロ |
-| コスチューム（深層） | 緋色基調＋金差し＋黒 | `#C8102E` ／ `#C8A24B` ／ `#16161A` | 和風射手装束（image_yoimiya.png は黒髪版を採用） |
+| コスチューム（深層） | 緋色基調＋金差し＋黒 | `#C8102E` ／ `#C8A24B` ／ `#16161A` | 和風射手装束（mio_deep_layer_archer_costume_yoimiya_ref.png は黒髪版を採用） |
 | 能力光（光の弓） | 淡い金〜白光 | `#F3E2A9` | 力の象徴。金属でない |
 
 ### 7.4 プロンプト用キャラ正典ブロック（英語・コピペ用）
@@ -141,7 +141,21 @@ Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace.
 
 > 下記は §7.1–7.4 を台本に codex で生成した設定画。プレビュー確認用に埋め込む（著者写真ではなく**生成物**）。直す場合はプロンプト修正→ v+1 再生成。
 
-**v1（2026-06-14・codex 生成）**：表層＝紺制服のターンアラウンド（正面/斜め/横/背面）＋表情差分／深層＝緋色の和風射手装束＋光の弓＋表情差分／下段に配色見本。
+**v3（2026-06-15・codex 生成／現在採用）**：v2 の顔特徴と深層衣装を維持しつつ、表層制服の肩まわりを修正。肩パッド状に見えた硬い張り出しをやめ、丸い小さめパフ袖、柔らかい短ボレロ、丸襟、小さな胸リボンで、ミッション女子校らしい可愛さと自然な肩幅へ寄せた版。
+
+![澪 設定画 v3（制服かわいい修正版・顔特徴反映版）](../../media/common/characters/character-mio/outputs/ref_sheet_v3_cute_uniform.png)
+
+- 生成物：[../../media/common/characters/character-mio/outputs/ref_sheet_v3_cute_uniform.png](../../media/common/characters/character-mio/outputs/ref_sheet_v3_cute_uniform.png)
+- 生成プロンプト：[../../media/common/characters/character-mio/prompts/generations/run-20260615_164232/prompt.md](../../media/common/characters/character-mio/prompts/generations/run-20260615_164232/prompt.md)
+
+**v2（2026-06-15・codex 生成／旧版）**：v1 を土台に、approved model photos の顔特徴を「本人再現」ではなく澪のキャラクター特徴として反映。丸みのある輪郭、柔らかい頬、自然な小さめの口、前髪の軽さ、凛と幼さの同居を強め、汎用的な美少女顔から少し外した版。表層＝紺制服のターンアラウンド＋表情差分／深層＝緋色の和風射手装束＋光の弓。制服の肩まわりが硬く見えたため v3 へ更新。
+
+![澪 設定画 v2（顔特徴反映版・制服ターンアラウンド＋緋色射手装束）](../../media/common/characters/character-mio/outputs/ref_sheet_v2_face_model_refined.png)
+
+- 生成物：[../../media/common/characters/character-mio/outputs/ref_sheet_v2_face_model_refined.png](../../media/common/characters/character-mio/outputs/ref_sheet_v2_face_model_refined.png)
+- 生成プロンプト：[../../media/common/characters/character-mio/prompts/generations/run-20260615_163647/prompt.md](../../media/common/characters/character-mio/prompts/generations/run-20260615_163647/prompt.md)
+
+**v1（2026-06-14・codex 生成／旧版）**：表層＝紺制服のターンアラウンド（正面/斜め/横/背面）＋表情差分／深層＝緋色の和風射手装束＋光の弓＋表情差分／下段に配色見本。
 
 ![澪 設定画 v1（制服ターンアラウンド＋緋色射手装束＋表情差分＋配色）](../../media/common/characters/character-mio/outputs/ref_sheet_v1.png)
 
@@ -153,5 +167,7 @@ Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace.
 
 | 日付 | 内容 |
 |---|---|
-| 2026-06-14 v0.1 | 著者リファレンス（顔・体型＝写真2枚＝森脇リリカ／コスチューム＝image.png／ペルソナ＝森脇リリカ参照／ラッキースケベ的接触）を反映し制作用シートを新規作成。容姿に「凛と柔らかいの二面」、性格に「表＝静/礼・素＝柔らかい・ナギの前で崩れる」、§3.5 ラッキースケベ（距離のギャップ・健全コメディ）を規格化。heroine_core を正本とし本シートは即参照用 |
+| 2026-06-15 v0.4 | v2 の顔特徴と深層衣装を維持しつつ、制服の硬い肩パッド感を修正。丸い小さめパフ袖、柔らかい短ボレロ、丸襟、小さな胸リボンへ寄せた v3 `ref_sheet_v3_cute_uniform.png` を生成・現在採用版に更新。生成プロンプトを `prompts/generations/run-20260615_164232/prompt.md` に保存 |
+| 2026-06-15 v0.3 | `approved` のモデル写真2枚から、本人再現ではなく澪の顔特徴として「丸みのある輪郭・柔らかい頬・自然な小さめの口・前髪の軽さ・凛と幼さの同居」を抽出し、設定画 v2 `ref_sheet_v2_face_model_refined.png` を生成・現在採用版に更新。生成プロンプトを `prompts/generations/run-20260615_163647/prompt.md` に保存 |
+| 2026-06-14 v0.1 | 著者リファレンス（顔・体型＝写真2枚＝森脇リリカ／コスチューム＝mio_deep_layer_archer_costume_yoimiya_ref.png／ペルソナ＝森脇リリカ参照／ラッキースケベ的接触）を反映し制作用シートを新規作成。容姿に「凛と柔らかいの二面」、性格に「表＝静/礼・素＝柔らかい・ナギの前で崩れる」、§3.5 ラッキースケベ（距離のギャップ・健全コメディ）を規格化。heroine_core を正本とし本シートは即参照用 |
 | 2026-06-14 v0.2 | `character-sheet` スキルで **§7 ビジュアルリファレンス仕様**（7.1 ターンアラウンド／7.2 小物／7.3 カラー指定／7.4 英語キャラ正典ブロック）を追加。§7.5 に codex 生成の設定画 v1（制服TA＋緋色射手装束＋表情差分＋配色見本）を埋め込み（プレビュー確認用） |

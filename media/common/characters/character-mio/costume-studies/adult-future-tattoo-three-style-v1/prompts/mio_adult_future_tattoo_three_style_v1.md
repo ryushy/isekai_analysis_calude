@@ -1,0 +1,14 @@
+# Prompt: Mio adult future tattoo three-style v1
+
+Create one polished anime concept-art collage image with THREE side-by-side full-body costume studies of the same character: adult future Mio Shinomiya, clearly age 20+, a mature future version of a Japanese archer heroine. She has glossy black hair in a high ponytail with airy bangs, calm dark eyes, a softly rounded but more mature face, slender athletic build, composed kyudo-like aura, and quiet lethal focus. This is NOT a school uniform and NOT a teenager.
+
+Overall style: modern cinematic anime illustration, soft painterly finish, crisp character design sheet quality, neutral dark-to-warm background gradient with subtle battlefield lighting, no readable text, no logos, no watermarks. Tasteful high-exposure battle costume design: sensual but non-explicit, no nudity, no erotic pose, no genital or breast focus, no fetish framing. The exposure must feel like practical adult fantasy combat gear, elegant and dangerous.
+
+Panel 1, left: Adult stealth support archer. Black and deep crimson asymmetrical tactical archer outfit with short mantle, open side cutouts, fitted armored bodice, bare shoulders, thigh straps, light fabric layers for movement. She is crouched/kneeling in a stealth archer stance, bow lowered and one luminous arrow held but not fired. A story-important glowing tattoo shaped like a tiny bow-and-constellation sigil is visible on her side waist/rib area through a side cutout, partially hidden by the mantle, provocative but non-explicit.
+
+Panel 2, center: Adult ceremonial crimson archer. White and vermilion shrine-warrior inspired battle outfit, high side slit wrap skirt over fitted shorts, bare midriff, elegant archer gloves, delicate protective bands, long ribbon elements moving in wind. She stands in a composed drawing stance with exactly one luminous arrow nocked. The key tattoo is on the upper outer thigh/hip line, partly revealed by the high slit, clearly story-significant but not explicit.
+
+Panel 3, right: Ultimate future infinite-range archer. Dark red and black high-fashion battle coat with open back, asymmetric long panels, exposed shoulder blade and lower back cutouts, sleek magical armor accents, mature regal silhouette. She is in a calm post-release zanshin pose on a night rooftop, bow hand relaxed, no visible shot line or laser. The same glowing tattoo is visible at the lower back/upper hip or shoulder blade edge, like a secret mark revealed only when the coat shifts. Subtle distant city lights and moonlit atmosphere suggest unlimited range.
+
+Important consistency: all three are the same adult future Mio, same face and hair identity, same tattoo motif, same luminous light-bow theme. Use exactly one arrow only in panels where an arrow is present; avoid multiple flying arrows, beam lines, laser tracers, HUDs, guns, gore, school uniform, swimsuit/bikini styling, childish proportions, or childish face.
+
