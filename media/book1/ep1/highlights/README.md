@@ -22,6 +22,14 @@
 
 動画化や差し替えのため、**人物を描かない背景プレート**を別レイヤーで保持＝[outputs/plates/](outputs/plates/)（`hl_NN_*_plate.png` ×10）。キャラは [character-sheet](../../../../docs/settings/character_sheet_nagi.md) の正典を別参照で合成（[stage-background レイヤー方針](../../../../.claude/skills/stage-background/SKILL.md)）。`outputs/` のキャラ込み版＝観賞用。
 
+## 複数生成と採用
+
+今後は一発生成ではなく、生成回ごとの候補を [runs/](runs/) に残し、比較資料を [reviews/](reviews/) に置く。採用版だけを [outputs/](outputs/) に置く。
+
+- 旧 `outputs_backup_20260615_132952/` は [runs/20260615_132952_previous_outputs/outputs/](runs/20260615_132952_previous_outputs/outputs/) に整理済み。
+- 2026-06-15 の比較資料は [reviews/20260615_generation_compare/](reviews/20260615_generation_compare/) に整理済み。
+- 人物の一貫性が必要な場合は、`media/common/characters/character-nagi/outputs/ref_sheet_v*.png` と、必要に応じて `references/model-photos/approved/` を参照する。
+
 ## 背景区分（現実世界／ダンジョン）
 
 | 区分 | 方針 | 該当 |

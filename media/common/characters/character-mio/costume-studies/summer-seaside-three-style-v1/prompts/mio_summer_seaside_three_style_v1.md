@@ -1,0 +1,16 @@
+# mio_summer_seaside_three_style_v1 prompt
+
+```text
+Use case: illustration-story
+Asset type: Mio Shinomiya summer seaside costume design collage, one image
+Primary request: Create a single polished concept-art collage showing three different summer seaside battle costume proposals for Mio Shinomiya side by side. This is for choosing a new costume direction for a midsummer beach / seaside dungeon combat scene.
+Reference: Use the visible Mio Shinomiya v3 reference sheet as character canon. Keep the same fictional character identity across all three: rounded youthful face, soft cheeks, calm dark eyes, natural small mouth, airy bangs, glossy black long hair in a high ponytail with loose strands, petite/slender build, composed kyudo heroine aura. Keep a pale-gold light bow motif in each design, but no metal weapon.
+Canvas/layout: wide 16:9 concept sheet collage, three vertical panels or three full-body figures side by side. Background suggests midsummer seaside dungeon combat: bright sun, blue sea, white surf, wet rocks, salt haze, warped summer light, but keep figures readable. No text labels, no numbers, no logos, no watermark.
+Style A / left: tide-shadow support archer. Practical low-profile seaside combat outfit: dark navy sleeveless or short-sleeved fitted archer top layered under a light muted-crimson cropped haori, waterproof waist sash, short hakama-style split skirt over fitted leggings, arm wraps, tabi-like water shoes. Designed for crouching behind rocks and supporting allies at 200-300 meters. Palette: navy, muted crimson, sand beige, small gold accents. Pose: low kneeling support stance on wet rocks, one pale-gold light arrow nocked, exactly one arrow.
+Style B / center: white-surf ritual kyudo archer. Elegant summer shrine/kyudo-inspired outfit adapted for the beach: white airy over-robe, crimson hakama-inspired skirt with high side slits for movement but modest coverage, tasuki cords, shell-like gold ornaments, light fabric moving in sea wind. Palette: white, crimson, pale gold, seafoam highlights. Pose: upright pre-draw stance, calm and dignified, bow glow restrained, no arrow in flight.
+Style C / right: sunset coastal future-archer hint. Sleek waterproof long-range archer coat, black and deep teal with crimson lining, high collar but lightweight, asymmetrical wind-swept coat panels, fitted inner archer layers, practical boots for seawalls, subtle gold trim. Hints at future rooftop archer but adapted to a seaside cliff or breakwater. Pose: after-release zanshin on a seawall at sunset, no visible arrow, only a tiny distant target glint over the surf.
+Composition/framing: full-body or nearly full-body figures, consistent height and face across all three. Each design must be clearly different but still recognizable as Mio. Keep the costumes practical for combat, not swimsuit fashion.
+Lighting/mood: midsummer light, sparkling sea, salt wind, cinematic anime, soft painterly finish, pale-gold bow accents.
+Constraints: exactly three costume designs, same Mio in all three, no extra characters, no readable text, no numbers, no logos, no HUD, no watermark, no blood, no gun, no metal weapon, no multiple arrows clutter. Avoid bikini/swimsuit fanservice, sexualized costume design, generic fantasy armor, shoulder pads, military epaulettes, oversized beams, continuous laser lines, or cheap arrow effects.
+```
+

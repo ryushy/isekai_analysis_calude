@@ -21,7 +21,7 @@
 
 ## 1. 容姿・体型
 
-> 容姿リファレンス＝[../../media/common/characters/参考画像/](../../media/common/characters/参考画像)（William Franklyn-Miller 系・[protagonist_core §0.1](protagonist_core.md)）。
+> 容姿リファレンス＝[legacy-william-franklyn-miller/](../../media/common/characters/character-nagi/references/model-photos/approved/legacy-william-franklyn-miller/)（William Franklyn-Miller 系・[protagonist_core §0.1](protagonist_core.md)）。
 
 | 項目 | 内容 |
 |---|---|
