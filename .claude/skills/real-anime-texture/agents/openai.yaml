@@ -1,0 +1,4 @@
+interface:
+  display_name: "Real Anime Texture"
+  short_description: "実写感と柔らかいアニメ背景を融合した画像プロンプトを作る"
+  default_prompt: "このシーンを実写感とイラストが融合した生活背景アニメ質感で描くためのプロンプトにしてください"
