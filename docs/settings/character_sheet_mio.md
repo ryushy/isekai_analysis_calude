@@ -38,7 +38,7 @@
 | シーン | 服装 |
 |---|---|
 | 表層（学校・日常） | **山手聖二葉女学院の制服**＝紺のジャンパースカート＋ボレロ（雙葉系ミッション校の品）。肩に**弓巻**を提げる。私服は写真2系（ふんわりした白ニット等・柔らかい少女らしさ）。 |
-| 深層（ダンジョン） | **緋色基調の和風の射手装束**＝コスチューム（能力の外在化・[digital_tattoo §6.5](digital_tattoo.md)）。黒髪ポニーテール・たすき/片肌・光の弓。**リファレンス＝[mio_deep_layer_archer_costume_yoimiya_ref.png](../../media/common/characters/character-mio/references/style/mio_deep_layer_archer_costume_yoimiya_ref.png)（和風射手の構図・黒髪版）**。制服（洋）↔装束（和）の落差＝主題の可視化。 |
+| 深層（ダンジョン） | **白×淡青基調の和風の射手装束**（“光と水”・銀差し＋黒）＝コスチューム（能力の外在化・[digital_tattoo §6.5](digital_tattoo.md)・色確定＝[canon_log C-038](../series/canon_log.md)）。黒髪ポニーテール・たすき/片肌・光の弓。**リファレンス＝[mio_deep_layer_archer_costume_yoimiya_ref.png](../../media/common/characters/character-mio/references/style/mio_deep_layer_archer_costume_yoimiya_ref.png)（和風射手の構図・黒髪版・※旧緋色版＝白×淡青で要再生成）**。制服（洋）↔装束（和）の落差＝主題の可視化。 |
 
 ---
 
@@ -109,7 +109,7 @@
 | 背面 | ポニーの結び・たすき掛け・装束の帯（深層時）が分かる。 |
 | 表情差分 | ①凛（無表情・狙う）②素の柔らかい笑顔（あどけない）③照れ崩れ（敬語がほどける動揺）④集中（射の瞬間）。 |
 
-- **二層を必ず描き分け**：表層＝制服（洋の器）／深層＝緋色の和風射手装束（和の芯）。同一人物として髪・顔・体型を一致させる。
+- **二層を必ず描き分け**：表層＝制服（洋の器）／深層＝白×淡青の和風射手装束（“光と水”・和の芯）。同一人物として髪・顔・体型を一致させる。
 
 ### 7.2 小物・署名アイテム
 
@@ -117,7 +117,7 @@
 |---|---|---|---|
 | 弓巻（ゆまき） | 肩に提げる細長い布袋 | 弓道部のエースの署名小物 | 表層（学校） |
 | 光の弓 | 金属でない**光の弦の弓**（淡い金〜白光の具現） | 外付けタトゥー＝監視装置の末端（支給品）。遠隔ピンポイント編集 | 深層（戦闘） |
-| たすき／片肌 | 緋色装束の射手結び | 射の所作・和の芯の可視化 | 深層 |
+| たすき／片肌 | 白×淡青装束の射手結び（銀差し） | 射の所作・和の芯の可視化 | 深層 |
 | 制服のボレロ＋ジャンパースカート | 紺基調・ミッション校の品 | 表層（洋の器） | 学校・日常 |
 
 ### 7.3 カラー指定（目安）
@@ -128,18 +128,20 @@
 | 瞳 | 落ち着いた濃茶〜黒 | `#3B2A24` | 大きく落ち着いた目。視線が強い |
 | 肌 | 白い肌 | `#F5E6DC` | — |
 | 表層衣装（制服） | 紺＋白 | `#1F2A44` ／ `#F2F2F0` | 紺ジャンパースカート＋白襟/ボレロ |
-| コスチューム（深層） | 緋色基調＋金差し＋黒 | `#C8102E` ／ `#C8A24B` ／ `#16161A` | 和風射手装束（mio_deep_layer_archer_costume_yoimiya_ref.png は黒髪版を採用） |
+| コスチューム（深層） | 白×淡青基調＋銀差し＋黒 | `#F2F4F6` ／ `#A9C7DD` ／ `#C9CDD2` ／ `#16161A` | 和風射手装束（“光と水”・色確定＝[canon_log C-038](../series/canon_log.md)で緋色から変更／**参照画像は旧緋色＝白×淡青で要再生成**） |
 | 能力光（光の弓） | 淡い金〜白光 | `#F3E2A9` | 力の象徴。金属でない |
 
 ### 7.4 プロンプト用キャラ正典ブロック（英語・コピペ用）
 
 ```text
-Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace. Glossy jet-black long hair tied in a high ponytail (soft when let down); large calm dark eyes with a steady, unwavering gaze; fair skin; slender, delicate build but upright, well-trained posture (graceful yet strong). TWO looks, same girl: (A) surface — navy Catholic-mission-school uniform (jumper skirt + bolero), a slim cloth bow-wrap over the shoulder, quiet and refined; (B) deep layer — a crimson Japanese archer costume (one shoulder bare, tasuki sash, black accents, gold trim) wielding a bow of pure pale-gold light (NOT metal — a manifestation of power). Calm, composed, polite; softens into an unexpectedly childlike smile off guard. Light modern-anime tone. No readable text, no numbers, no HUD.
+Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace. Glossy jet-black long hair tied in a high ponytail (soft when let down); large calm dark eyes with a steady, unwavering gaze; fair skin; slender, delicate build but upright, well-trained posture (graceful yet strong). TWO looks, same girl: (A) surface — navy Catholic-mission-school uniform (jumper skirt + bolero), a slim cloth bow-wrap over the shoulder, quiet and refined; (B) deep layer — a white-and-pale-blue Japanese archer costume evoking light and water (one shoulder bare, tasuki sash, black accents, silver trim) wielding a bow of pure pale-gold light (NOT metal — a manifestation of power). Calm, composed, polite; softens into an unexpectedly childlike smile off guard. Light modern-anime tone. No readable text, no numbers, no HUD.
 ```
 
 ### 7.5 リファレンス画像（codex 生成）
 
 > 下記は §7.1–7.4 を台本に codex で生成した設定画。プレビュー確認用に埋め込む（著者写真ではなく**生成物**）。直す場合はプロンプト修正→ v+1 再生成。
+>
+> **⚠ 色確定変更（2026-06-19・[canon_log C-038](../series/canon_log.md)）**：深層装束色を**緋色→白×淡青（“光と水”・銀差し＋黒）**に変更。**下記 v1〜v3 および `mio_deep_layer_archer_costume_yoimiya_ref.png` はいずれも旧緋色での生成物**＝装束色は現行カノンと不一致。**白×淡青で要再生成**（§7.3/§7.4 の現行指定を台本に）。表層制服・顔・体型・髪は流用可。確定画像の置き場所＝`C:\project\home\entertaiment\media_higgsField\references`。
 
 **v3（2026-06-15・codex 生成／現在採用）**：v2 の顔特徴と深層衣装を維持しつつ、表層制服の肩まわりを修正。肩パッド状に見えた硬い張り出しをやめ、丸い小さめパフ袖、柔らかい短ボレロ、丸襟、小さな胸リボンで、ミッション女子校らしい可愛さと自然な肩幅へ寄せた版。
 
@@ -167,6 +169,7 @@ Mio Shinomiya, a petite 16-year-old Japanese girl, kyudo (Japanese archery) ace.
 
 | 日付 | 内容 |
 |---|---|
+| 2026-06-19 v0.5 | **深層装束の色を確定変更＝緋色→白×淡青（“光と水”・銀差し＋黒）**（著者決定／[canon_log C-038](../series/canon_log.md)）。§7.1 二層描き分け・§7.2 たすき・§7.3 配色コード（`#F2F4F6`／`#A9C7DD`／`#C9CDD2`／`#16161A`）・§7.4 英語正典ブロック（crimson＋gold trim→white-and-pale-blue＋silver trim・light and water）を更新。**光の弓（淡い金〜白光）は維持**。設定画 v1〜v3・yoimiya_ref は旧緋色＝**白×淡青で要再生成**（§7.5 に⚠注記・確定画像置き場＝`media_higgsField/references`） |
 | 2026-06-15 v0.4 | v2 の顔特徴と深層衣装を維持しつつ、制服の硬い肩パッド感を修正。丸い小さめパフ袖、柔らかい短ボレロ、丸襟、小さな胸リボンへ寄せた v3 `ref_sheet_v3_cute_uniform.png` を生成・現在採用版に更新。生成プロンプトを `prompts/generations/run-20260615_164232/prompt.md` に保存 |
 | 2026-06-15 v0.3 | `approved` のモデル写真2枚から、本人再現ではなく澪の顔特徴として「丸みのある輪郭・柔らかい頬・自然な小さめの口・前髪の軽さ・凛と幼さの同居」を抽出し、設定画 v2 `ref_sheet_v2_face_model_refined.png` を生成・現在採用版に更新。生成プロンプトを `prompts/generations/run-20260615_163647/prompt.md` に保存 |
 | 2026-06-14 v0.1 | 著者リファレンス（顔・体型＝写真2枚＝森脇リリカ／コスチューム＝mio_deep_layer_archer_costume_yoimiya_ref.png／ペルソナ＝森脇リリカ参照／ラッキースケベ的接触）を反映し制作用シートを新規作成。容姿に「凛と柔らかいの二面」、性格に「表＝静/礼・素＝柔らかい・ナギの前で崩れる」、§3.5 ラッキースケベ（距離のギャップ・健全コメディ）を規格化。heroine_core を正本とし本シートは即参照用 |
