@@ -5,7 +5,7 @@
 
 ---
 
-## 最終更新：2026-06-19
+## 最終更新：2026-06-20
 
 **フェーズ**：**Phase 0（舞台装置の設計）＝完了**。**Phase 1（巻1本文執筆）＝進行中**。第1〜11話 本文完成（第1ブロック01-04／第2ブロック05-10＝設計完結／第3ブロック11＝開幕）。各話とも4〜5レビュー収束反映・開示違反なし・main マージ済。直近（06-19）＝**ep02 映像化リビジョン**（初変身削除・弓抑制・消去減圧・残心強調／初変身を ep04 へ移設／澪の深層装束色を緋色→白×淡青に統一＝[canon_log C-038](../series/canon_log.md)）。次の一手＝**第12話プロット「囮」**（B1-12）。
 
@@ -18,7 +18,7 @@
 - ✅ 制作スキル：`storyboard`／`seedance`（codex MCP・Higgsfield 確認済）
 - ✅ 管理基盤：ops三層・series台帳（canon/timeline/disclosure/episode_id）・レビュースキル3（reader-personas/editor-kawahara/editor-tsukikage）
 - ✅ **第2話 本文 v0.5**：[manuscript/book1/02_mirareteita.md](../manuscript/book1/02_mirareteita.md)「見られていた」（篠宮澪 初登場・見逃しの三本足場・点vs面・ラッキースケベの緩・約6,100字＝NG0/WARN0）。**v0.5＝映像化逆算メモ反映**（[media/ep02_revision_memo.md](../../media/ep02_revision_memo.md)）＝初変身を削除（制服のまま・三体化＝時間効果は維持）／弓を伝統弓＋淡い光の一矢に抑制／消去を減圧／残心を強調。**初変身は ep04 へ移設**。
-- ✅ **第2話 4レビュー検証完了（全員マージ可・必須修正なし）**：[kawahara](../review/02_kawahara.md)（構造）／[tsukikage](../review/02_tsukikage.md)（テンポ・ラッキースケベ採用維持）／[readers](../review/02_readers.md)（3読者）／[actor](../review/02_actor.md)（役者）。
+- ✅ **第2話 4レビュー検証完了→統合（全員マージ可・必須修正なし）**：[**synthesis**](../review/02_synthesis.md)（2026-06-20 補完・敵対的忠実性検証で帰属補正）＝[kawahara](../review/02_kawahara.md)（構造）／[tsukikage](../review/02_tsukikage.md)（テンポ・ラッキースケベ採用維持）／[readers](../review/02_readers.md)（3読者）／[actor](../review/02_actor.md)（役者）。収束3点（章末引き一撃化／イレギュラー発生トリガー／突破の身体コスト）は **v0.4 反映済**・現行 v0.5。
 - ✅ **キャラクターシート**：[character_sheet_mio.md](../settings/character_sheet_mio.md)（澪＝顔/体型写真2枚・森脇リリカ参照・ラッキースケベ§3.5・§7ビジュアル仕様）／[character_sheet_nagi.md](../settings/character_sheet_nagi.md)（ナギ・§7）。生成補助＝`character-sheet` スキル。
 - ✅ **レビュースキル追加**：[actor-review](../../.claude/skills/actor-review/SKILL.md)（演出家・霧島怜＝役者目線で行動の妥当性／唐突さ/キャラブレ検出）。reader-personas/editor-kawahara/editor-tsukikage と並ぶ第4のレビュアー。
 - ✅ Git運用：ブランチ運用＋フック（pre-commit/commit-msg/post-commit＋Claude SessionStart/Stop）＋`git-flow`スキル。**第2話プロット・ヒロイン設定・学校確定まで main へマージ済**。**本セッション分（ヒロイン確定v0.2・ep2_plot v0.3・第2話本文v0.2・コスチューム機構C-027・文体ルールv0.2）は未コミット**。
@@ -83,6 +83,7 @@
 
 | 日付 | 更新概要 |
 |---|---|
+| 2026-06-20 | **第2話 synthesis 補完**＝従来この回だけ欠落していた [02_synthesis.md](../review/02_synthesis.md) を v0.3 の4レビュー（九条/夏目/読者3/霧島）から事後統合。全員マージ可・必須0・収束3点（章末引き一撃化／イレギュラー発生トリガー／突破の身体コスト）は v0.4 反映済を確認。**敵対的忠実性検証（5エージェント）で帰属を補正**（読者の章末称賛を圧縮推奨に反転させない／霧島は"採用維持票"でなく演出条件提示／九条の指摘に原本に無い固有名を付けない／夏目・紬の脱落指摘を補完）。本文・設計への変更なし＝記録の補完のみ。次の一手は不変＝第12話本文化 |
 | 2026-06-19 | **ep02 映像化リビジョン＝完了**（60秒動画化の逆算）。ep02本文 v0.5＝初変身削除・弓抑制・消去減圧・残心強調／初変身を ep04 へ移設（v0.3）／澪の深層装束色を緋色→白×淡青に統一（[C-038](../series/canon_log.md)＝C-027上書き・正典/プロット/本文に波及反映・本文側の取り残しなし）。残課題＝参照画像の再生成（媒体側）。次は第12話プロット「囮」 |
 | 2026-06-15 | **ARC-01＝book1 全体構想 完了**。著者決定3点（巻1≈18〜20話・到達点＝最初の仲間確立＋当面の敵への初の決着＋削れの天秤起動／当面の敵＝監視機構の末端＝非致死の追跡者／series_arc 10行表＝弧ビート再定義し二層化）。[book1_structure.md](../plot/book1_structure.md)＋[book1_skeleton.md](../plot/book1_skeleton.md) 新設、series_arc v0.2・canon C-032・factions §4 反映。次の一手＝巻1第2ブロック設計（追跡者の人物設計→第5話プロット） |
 | 2026-06-14 | 初版。Phase0 完了間際の状態＋管理基盤導入を記録 |
